@@ -11,7 +11,7 @@ Balio eta programa berdinzaleak, ekologistak, feministak, bakezaleak, federalist
 
 Baina oraindik garaiz gabiltza. Erakunde horiek guztiek diote atea zabalik dutela euskal hauteskundeetan elkarrekin parte hartzeko. Eta hauteskundeak ez dira deitu, eta behin eginda, oraindik egun batzuk geratuko dira koalizioak egiteko.
 
-Horregatik, erakundeei dei egiten diegu berriro saia daitezen, berriro bil daitezen, eta bideratzaile batzuek lagunduta, eskuzabaltasunez eta errealismoz gaindi ditzaten beren desberdintasunak, eta, horrela, beren aniztasuna errespetatuko duen hauteskunde batasuna lor dezaten.
+Horregatik, erakundeei dei egiten diegu berriro saia daitezen, berriro bil daitezen, eta bideratzaile batzuek lagunduta, eskuzabaltasunez eta errealismoz gaindi ditzaten beren desberdintasunak, eta, horrela, espazioaren aniztasuna errespetatuko duen hauteskunde batasuna lor dezaten.
 
 Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 
