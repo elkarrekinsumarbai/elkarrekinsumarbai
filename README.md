@@ -1,6 +1,6 @@
 **Euskera** | [Castellano](es)
 
-<a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu zerrenda bateratuaren alde</a>
+<a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
 # Saia zaitezte berriro! 
 ## Podemos Euskadi, Sumar Mugimendua, Ezker Anitza-IU eta Equo-Berdeak alderdien arteko zerrenda bateratuaren aldeko sinadura bilketa
