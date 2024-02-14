@@ -13,7 +13,7 @@ Pero aún estamos a tiempo. Todas estas organizaciones dicen mantener la puerta 
 
 Por eso apelamos a las organizaciones para que lo vuelvan a intentar, para que se reunan otra vez, y para que acompañadas de algunas personas facilitadoras, superen con generosidad y realismo sus diferencias y consigan así una unidad electoral respetuosa con su pluralidad,
 
-Por eso firmamos y difundimos esta reclamación.
+Y para eso firmamos y difundimos esta reclamación.
 
 ## Listado de firmantes
 * Nombre Apellidos (organización)
