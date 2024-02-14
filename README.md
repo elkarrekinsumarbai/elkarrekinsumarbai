@@ -13,7 +13,7 @@ Baina oraindik garaiz gabiltza. Erakunde horiek guztiek diote atea zabalik dutel
 
 Horregatik, erakundeei dei egiten diegu berriro saia daitezen, berriro bil daitezen, eta bideratzaile batzuek lagunduta, eskuzabaltasunez eta errealismoz gaindi ditzaten beren desberdintasunak, eta, horrela, beren aniztasuna errespetatuko duen hauteskunde batasuna lor dezaten.
 
-Horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
+Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 
 
 ## Sinatzaileen zerrenda
