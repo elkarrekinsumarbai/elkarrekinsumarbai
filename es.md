@@ -11,7 +11,7 @@ Como ciudadanos y ciudadanas vascas que compartimos valores y programas igualita
 
 Pero aún estamos a tiempo. Todas estas organizaciones dicen mantener la puerta abierta a concurrir conjuntamente a las próximas elecciones vascas. Y los comicios no se han convocado, y una vez se haga, quedarán todavía varios días para formalizar coaliciones.
 
-Por eso apelamos a las organizaciones para que lo vuelvan a intentar, para que se reunan otra vez, y para que acompañadas de algunas personas facilitadoras, superen con generosidad y realismo sus diferencias, y consigan así una unidad electoral a la altura de la pluralidad social que representa este espacio.
+Por eso apelamos a las organizaciones para que lo vuelvan a intentar, para que se reunan otra vez, y para que acompañadas de algunas personas facilitadoras, superen con generosidad y realismo sus diferencias, y consigan así una unidad electoral a la altura de la pluralidad social que conforma este espacio.
 
 Y para eso firmamos y difundimos esta reclamación.
 
