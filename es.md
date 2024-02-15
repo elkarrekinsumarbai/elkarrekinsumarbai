@@ -61,6 +61,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * M. Pilar Cidal López de Torre (Psicóloga)
 * Adrián Vázquez (Ezker Anitza-IU)
 * Raimundo Rubio Carcedo (Podemos Portugalete)
+* Sabin Zubiri Rey (Activista social, sindical y político)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
