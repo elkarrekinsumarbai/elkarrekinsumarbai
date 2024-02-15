@@ -132,6 +132,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Cristina Sánchez Isasi (Educadora)
 * Susana Carro Ripalda (Antropóloga, independiente)
 * Imanol Ziarsolo	(Jubilado)
+* Iker Atxaga Gallo (Vigilante)
+* Puri Perez Rojo (Pensionista)
+* Jose Ramon Iñurrategui Pagalday (Jubilado)
+* Margarita Toja Garamendi (Mungia Alkartu)
 
 
 
