@@ -127,6 +127,12 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Juan Agustin Aizpuru Izaguirre (Usansolo Herria)
 * Ignacio Garay (Irakaslea)
 * Luis Alejos	(Podemos Bilbao)
+* Fidencio Bao Pérez (Osakidetza)
+* Ana Martín (Justizia sozialaren aldeko borrokalaria)
+* Rubén Belandia Fradejas (Bibliotekaria eta Podemos-eko kidea)
+* Cristina Sánchez Isasi (Hezitzailea)
+* Susana Carro Ripalda (Antropologoa, independientea)
+* Imanol Ziarsolo	(Erretiratua)
 
 
 
