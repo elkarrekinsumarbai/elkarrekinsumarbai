@@ -109,7 +109,12 @@ Y para eso firmamos y difundimos esta reclamación.
 * Alfredo Herbosa López (Jubilado)
 * Koldo Unceta (Catedrático jubilado UPV/EHU)
 * Miren Yosu Gregorio Espinosa (Ezker Anitza/Izquierda Unida)
-* Araceli Jiménez Esquilas (Pensionista) 
+* Araceli Jiménez Esquilas (Pensionista)
+* Monica Calvo Badia (Ingeniera)
+* Carlos Asensio Álvarez (Ezker Anitza-IU)
+* David Alday San Cristóbal (Educador)
+* Leticia Jiménez Loza (Administrativa)
+* Ana Belén Peralta Flores (Trabajadora social) 
 
 
 
