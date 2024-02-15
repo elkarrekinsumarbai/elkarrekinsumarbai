@@ -20,6 +20,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Itxaso Alonso Arana (Funcionaria)
 * Loic Alejandro (Autónomo)
 * Iker Bereciartua Castrillo (Berdeak Equo)
+* Mentxu Ramiro Araujo (Profesional independiente)
+* Eder Alvarez Rivera (Politólogo)
 * Andoni Basterra Urrutia (Sindicalista)
 * Enrique Olaso García (Profesor)
 
