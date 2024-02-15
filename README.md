@@ -73,6 +73,13 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Cristina Torre Azpitarte (Garbikuntza)
 * Luis Arbide González (Aktibista)
 * Juan Antonio Jericó Fernández (Equo Berdeak)
+* Jorge Barrón Fernández (OSALDE, Osasun eskubidearen aldeko elkartea, Euskadi)
+* Roberto Sainz Sainz	(Langilea)
+* Asier Rodriguez Villa	(Giza eskubideak)
+* Xabier Martín Corcuera (Medikua)
+* Andrea Ruiz Balzola	(BEGIRUNE Fundazioa)
+* Estibaliz Kortazar Errekatxo (Elkarrekin sumar bai)
+* Román Rodríguez Calleja	(Más Euskadi-Euskadi Eraiki)
 
 
 
