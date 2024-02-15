@@ -122,7 +122,6 @@ Y para eso firmamos y difundimos esta reclamación.
 * Virginia Medina Alvarado (Jubilada y ciudadana preocupada)
 * Rafael Garde Vicinay (Podemos)
 * Alberto García Cortés	(--)
-* Nekane Santos Tijero (Alimentadora de colonia federal)
 * Gaizka Esparza (Periodista)
 
 
