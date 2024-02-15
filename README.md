@@ -57,6 +57,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Asier Hernández Juanes (Ingenieari Informatikoa)
 * José Manuel Ferradás (Kazetaria)
 * Ekain Larrinaga Muguruza (Inmigrazio Teknikaria)
+* Aitor Mingo (Berdeak Equo)
 
 
 
