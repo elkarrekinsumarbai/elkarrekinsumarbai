@@ -188,6 +188,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Amelia Escolano Bernabe (TCAE)
 * Miguel Mata Gonzalez (Ex responsable territorial de CC.OO. en Bizkaia)
 * Mikel Barba del Horno (Profesor)
+* Amparo iriarte Campo (--)
+* Miren Llona (Feminista)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
