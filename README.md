@@ -124,6 +124,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Rafael Garde Vicinay (Podemos)
 * Alberto García Cortés	(--)
 * Gaizka Esparza (Kazetaria)
+* Juan Agustin Aizpuru Izaguirre (Usansolo Herria)
+* Ignacio Garay (Irakaslea)
+* Luis Alejos	(Podemos Bilbao)
 
 
 
