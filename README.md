@@ -17,7 +17,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 
 
 ## Sinatzaileen zerrenda
-* Izena
+* Imanol Zubero Beaskoetxea (Soziologoa)
+* Andoni Basterra Urrutia (Sindikalista)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
