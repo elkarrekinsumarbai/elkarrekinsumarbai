@@ -18,7 +18,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 
 ## Sinatzaileen zerrenda
 * Imanol Zubero Beaskoetxea (Soziologoa)
-* Itxaso Alonso Arana (Funtzionario)
+* Itxaso Alonso Arana (Funtzionarioa)
 * Loic Alejandro (Autonomoa)
 * Iker Bereciartua Castrillo (Berdeak Equo)
 * Mentxu Ramiro Araujo (Profesional independientea)
@@ -53,7 +53,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Iñaki Valentín Pérez (talde sozialetan militantea)
 * Casimiro Castaño González (Ezker Anitza-IU)
 * Israel Escalante Mesón (IU-ko militantea)
-* Asier Hernández Juanes (Ingenieari Informatikoa)
+* Asier Hernández Juanes (Ingeniari Informatikoa)
 * José Manuel Ferradás (Kazetaria)
 * Ekain Larrinaga Muguruza (Inmigrazio Teknikaria)
 * Aitor Mingo (Berdeak Equo)
@@ -82,7 +82,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Román Rodríguez Calleja	(Más Euskadi-Euskadi Eraiki)
 * Gotzon García Goti (Irakaslea)
 * Beatriz Marquina Garcia (Intervención social, movilidad humana)
-* Xabier Andrés Uriarte	(Funtzionario)
+* Xabier Andrés Uriarte	(Funtzionarioa)
 * Luis Miguel Gorostiaga Alonso	(Independientea)
 * Lourdes Oñederra (Hizkuntzalaria-Idazlea)
 * Ander Valentin Aparicio	(Ikaslea)
