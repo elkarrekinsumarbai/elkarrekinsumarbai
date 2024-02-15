@@ -50,6 +50,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Iker Bartolomé Nieto (Ezker Anitza-IU Ortuella)
 * Arantza Urcelay Salcedo	(Jubilada)
 * M. Pilar Cidal López de Torre (Psicóloga)
+* Iñaki Valentín Pérez (militante en colectivos sociales)
+* Casimiro Castaño González (Ezker Anitza-IU)
+* Israel Escalante Mesón (Militante de IU)
+* Asier Hernández Juanes (Ingeniero Informático)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
