@@ -110,7 +110,12 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Alfredo Herbosa López (Erretiratua)
 * Koldo Unceta (Katredadun erretiratua UPV/EHU)
 * Miren Yosu Gregorio Espinosa (Ezker Anitza/Izquierda Unida)
-* Araceli Jiménez Esquilas (Pentsioduna) 
+* Araceli Jiménez Esquilas (Pentsioduna)
+* Monica Calvo Badia (Ingeniaria)
+* Carlos Asensio Álvarez (Ezker Anitza-IU)
+* David Alday San Cristóbal (Hezitzailea)
+* Leticia Jiménez Loza (Administraria)
+* Ana Belén Peralta Flores (Langile soziala)
 
 
 
