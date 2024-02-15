@@ -22,7 +22,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Loic Alejandro (Autonomoa)
 * Iker Bereciartua Castrillo (Berdeak Equo)
 * Mentxu Ramiro Araujo (Profesional independientea)
-* Eder Alvarez Rivera (Politólogo)
+* Eder Alvarez Rivera (Politologoa)
 * Andoni Basterra Urrutia (Sindikalista)
 * Enrique Olaso García (Irakaslea)
 
