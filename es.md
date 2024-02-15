@@ -97,7 +97,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Nerea Aresti Esteban	(Historiadora, feminista)
 * Tere Maldonado Barahona	(Profesora)
 * José María Barandiaran Galdós (Jubilado)
-* Iker Mojón (Kazetaria)
+* Iker Mojón (Periodista)
 * Eneritz de Madariaga Martin	(Podemos)
 * Alberto García Fernández (Administración Pública)
 * Hortensia Alda Serrano (Graduada Social)
