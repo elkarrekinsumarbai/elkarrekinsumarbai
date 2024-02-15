@@ -56,6 +56,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Asier Hernández Juanes (Ingeniero Informático)
 * José Manuel Ferradás (Periodista)
 * Ekain Larrinaga Muguruza (Técnico inmigración)
+* Aitor Mingo (Berdeak Equo)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
