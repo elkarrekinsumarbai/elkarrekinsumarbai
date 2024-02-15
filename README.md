@@ -21,6 +21,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Itxaso Alonso Arana (Funtzionario)
 * Loic Alejandro (Autonomoa)
 * Iker Bereciartua Castrillo (Berdeak Equo)
+* Mentxu Ramiro Araujo (Profesional independientea)
+* Eder Alvarez Rivera (Politólogo)
 * Andoni Basterra Urrutia (Sindikalista)
 * Enrique Olaso García (Irakaslea)
 
