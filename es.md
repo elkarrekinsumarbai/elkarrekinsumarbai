@@ -18,6 +18,7 @@ Y para eso firmamos y difundimos esta reclamación.
 ## Listado de firmantes
 * Imanol Zubero Beaskoetxea (Sociólogo)
 * Andoni Basterra Urrutia (Sindicalista)
+* Enrique Olaso García (Profesor)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
