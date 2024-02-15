@@ -187,7 +187,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Maite Martínez (Irakase erretiratua)
 * Beatriz Muñoz Liedo (Giza hezkuntza)
 * Amelia Escolano Bernabe (TCAE)
-* Miguel Mata Gonzalez (Ex responsable territorial de CC.OO. en Bizkaia)
+* Miguel Mata Gonzalez (Bizkaiko CC.OO. arduradun ohia)
 * Mikel Barba del Horno (Irakaslea)
 * Amparo iriarte Campo (--)
 * Miren Llona (Feminista)
