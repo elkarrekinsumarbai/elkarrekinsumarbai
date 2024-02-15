@@ -104,7 +104,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Marcos López Medina (Desarrollador Web)
 * Alberto de la Iglesia Vega (Osakidetza)
 * Emilio Ordóñez Sancho-Miñano (Jubilado)
-* Gemma Zubiaurre Urkiri (Profesoara jubilada y Sumar Mugimendua)
+* Gemma Zubiaurre Urkiri (Profesora jubilada y Sumar Mugimendua)
 * Germán García Marroquín	(Jubilado)
 * Alfredo Herbosa López (Jubilado)
 * Koldo Unceta (Catedrático jubilado UPV/EHU)
