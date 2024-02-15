@@ -79,6 +79,12 @@ Y para eso firmamos y difundimos esta reclamación.
 * Andrea Ruiz Balzola	(BEGIRUNE Fundazioa)
 * Estibaliz Kortazar Errekatxo (Elkarrekin sumar bai)
 * Román Rodríguez Calleja	(Más Euskadi-Euskadi Eraiki)
+* * Gotzon García Goti (Profesor)
+* Beatriz Marquina Garcia (Intervención social, movilidad humana)
+* Xabier Andrés Uriarte	(Funcionario)
+* Luis Miguel Gorostiaga Alonso	(Independiente)
+* Lourdes Oñederra (Hizkuntzalaria-Idazlea)
+* Ander Valentin Aparicio	(Estudiante)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
