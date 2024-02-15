@@ -142,7 +142,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Jon Ander Tapia Bujan (Berdeak Equo)
 * Lala Juaristi Linacero (Erretiratua eta Podemos-eko langilea)
 * Iratxe Amantegi (Gizarte langilea)
-* Nekane Santos Tijero (Kolonia federaleko alimentatzailea eta cer)
+* Nekane Santos Tijero (Katu elikatzailea eta Bilboko udaleko CER programan)
 * Francisca Sánchez Salinas	(Erretiratua)
 * Alazne Cuellar Prieto (Haur hezkuntza)
 * Roberto Navarro Antoñanzas (Irakaslea)
