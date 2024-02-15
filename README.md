@@ -63,6 +63,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Adrián Vázquez (Ezker Anitza-IU)
 * Raimundo Rubio Carcedo (Podemos Portugalete)
 * Sabin Zubiri Rey (Aktibista soziala, sindikala eta politikoa)
+* Miguel Virizuela Echaburu (erretiratua)
+* Eduardo Calvo González (Jarraitzailea)
+* Irene Euba Arroyo (Ezker Anitza-IU)
+* Carlos Becerra Villar (Funtzionario erretiratua/Ezker Anitza-IU)
 
 
 
