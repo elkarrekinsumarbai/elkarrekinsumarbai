@@ -221,6 +221,12 @@ Y para eso firmamos y difundimos esta reclamación.
 * Txema Cifuentes Costela (Profesor jubilado)
 * Montserrat Marañon Martinez (Pensionista) 
 * María Isabel García García (Profesora, IU/Ezker Anitza)
+* Oskar Arenas Velasco (Sindicalista CCOO de Euskadi)
+* Joseba Andoni Duoandikoetxea Zuazo (Jubilado)
+* Elisabet de Paz Suárez (Profesora)
+* Aritz Zabala Iturbe (Auxiliar administrativo)
+* Marije Goikoetxea Iturregui (Profesora Etica Universidad de Deusto)
+* Sonia Galiana Saiz (Funcionaria)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
