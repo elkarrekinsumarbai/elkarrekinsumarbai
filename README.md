@@ -133,6 +133,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Cristina Sánchez Isasi (Hezitzailea)
 * Susana Carro Ripalda (Antropologoa, independientea)
 * Imanol Ziarsolo	(Erretiratua)
+* Iker Atxaga Gallo (Zaindaria)
+* Puri Perez Rojo (Pentsioduna)
+* Jose Ramon Iñurrategui Pagalday (Erretiratua)
+* Margarita Toja Garamendi (Mungia Alkartu)
 
 
 
