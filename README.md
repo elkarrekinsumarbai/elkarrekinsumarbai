@@ -68,8 +68,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Irene Euba Arroyo (Ezker Anitza-IU)
 * Carlos Becerra Villar (Funtzionario erretiratua/Ezker Anitza-IU)
 * Eneida de la Iglesia Vélez (Ezker Anitza-IU)
-* Ricardo San Segundo (Jubilado)
-* José Simón (Jubilado) 
+* Ricardo San Segundo (Erretiratua)
+* José Simón (Erretiratua) 
 * Cristina Torre Azpitarte (Garbikuntza)
 
 
