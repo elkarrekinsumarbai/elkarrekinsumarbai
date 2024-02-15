@@ -141,7 +141,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Jon Ander Tapia Bujan (Berdeak Equo)
 * Lala Juaristi Linacero (Jubilada y miembro de Podemos)
 * Iratxe Amantegi (Trabajadora social)
-* Nekane Santos Tijero (Alimentadora de colonia federal  y cer)
+* Nekane Santos Tijero (Alimentadora felina y dentro del programa CER Ayuntamiento Bilbao)
 * Francisca Sánchez Salinas	(Jubilada)
 * Alazne Cuellar Prieto (Educación infantil)
 * Roberto Navarro Antoñanzas (Profesor)
