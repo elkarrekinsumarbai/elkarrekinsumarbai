@@ -44,7 +44,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Begoña Zubiri Cearra (--)
 * Enrique Goikoetxea Iturregi (CCOO)
 * Amaia González Llama (Soziologoa)
-* Iñaki Markez Alonso (Psikiatra, Ikertzailea soziala, OME-AENeko kidea)
+* Iñaki Markez Alonso (Psikiatra, Ikertzaile soziala, OME-AENeko kidea)
 * Alvaro Martín Estefania (Irakaslea)
 * Nuntxi Sancho Valdivielso (Irakasle erretiratua)
 * Marijo Madariaga Rola	(Erretiratua)
