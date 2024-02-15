@@ -117,6 +117,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Ana Belén Peralta Flores (Trabajadora social)
 * Asun Merinero Sierra (Historiadora, ex juntera de Podemos Euskadi)
 * Victoria Lamas Veiga (Jubilada)
+* Adrián Medrano (Programador cultural/ hostelero)
 
 
 
