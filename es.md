@@ -67,6 +67,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Irene Euba Arroyo (Ezker Anitza-IU)
 * Carlos Becerra Villar (Funcionario jubilado/Ezker Anitza-IU)
 * Eneida de la Iglesia Vélez (Ezker Anitza-IU)
+* Ricardo San Segundo (Jubilado)
+* José Simón (Jubilado) 
 * Cristina Torre Azpitarte (Limpieza) 
 
 
