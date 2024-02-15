@@ -281,6 +281,10 @@ Y para eso firmamos y difundimos esta reclamación.
 22. Carlos Ortigosa Villarejo	(Profesor jubilado de EE. MM.)
 23. José Miguel Gonzalez de Audicana (Jubilado)
 24. Lidia Muñoz Ucher	(Berdeak Equo)
+25. Miguel Burdallo Bautista (Ezker Anitza-IU)
+26. Aurelio González Somavilla (Equo Berdeak)
+27. Gorka Nogal Laguna (Jubilado)
+28. Juanjo Vallejo García (Ezker Anitza IU)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
