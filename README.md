@@ -202,6 +202,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Karmele Aza Barruetabeña (Aktibista feminista)
 * Juan Pablo Ibarra Cárcamo (Ekonomista, erretiratua)
 * Pedro Torralba (Erretiratua)
+* Damian Rodriguez Velasco (Informatikaria)
+* Raisa Iratxe García Isasa (Berdeak EQUO)
+* Josetxu Tapia Astobiza (Irakasle erretiratua)
 
 
 
