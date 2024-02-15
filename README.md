@@ -33,7 +33,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Jon Bernat Zubiri Rey (Podemos eta Sumar-eko militantea)
 * Ángel Bao Pérez (Sumar/Ezker Anitza-IU)
 * Alvaro López (Ingeniaria)
-* Nour edin (Obrero, Ezker Anitza-IU)
+* Nour Edin (Obrero, Ezker Anitza-IU)
 * Manuela Ruiz Vivanco (Erretiratua)
 * Ekaitz Cancela (Ikertzailea)
 * Laura B.S. (Irakaslea)
