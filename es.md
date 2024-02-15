@@ -247,6 +247,9 @@ Y para eso firmamos y difundimos esta reclamación.
 * Nieves Miguel Izquierdo (Jubilada)
 * Guillermo Ruiz Irastorza (Médico de Osakidetza)
 * Jon Korta Murua (Trabajador)
+* Marian Arbide Basterrechea (Feminista)
+* María Milagros Resa Santamaría (Jubilada)
+* Garbiñe Santa Coloma (Más Euskadi)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
