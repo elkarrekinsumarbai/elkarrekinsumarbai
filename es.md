@@ -114,7 +114,9 @@ Y para eso firmamos y difundimos esta reclamación.
 * Carlos Asensio Álvarez (Ezker Anitza-IU)
 * David Alday San Cristóbal (Educador)
 * Leticia Jiménez Loza (Administrativa)
-* Ana Belén Peralta Flores (Trabajadora social) 
+* Ana Belén Peralta Flores (Trabajadora social)
+* Asun Merinero Sierra (Historiadora, ex juntera de Podemos Euskadi)
+* Victoria Lamas Veiga (Jubilada)
 
 
 
