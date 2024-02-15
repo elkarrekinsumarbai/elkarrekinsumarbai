@@ -50,7 +50,6 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Marijo Madariaga Rola	(Erretiratua)
 * Iker Bartolomé Nieto (Ezker Anitza-IU Ortuella)
 * Arantza Urcelay Salcedo	(Erretiratua)
-* M. Pilar Cidal López de Torre (Psikologoa)
 * Iñaki Valentín Pérez (talde sozialetan militantea)
 * Casimiro Castaño González (Ezker Anitza-IU)
 * Israel Escalante Mesón (IU-ko militantea)
@@ -58,6 +57,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * José Manuel Ferradás (Kazetaria)
 * Ekain Larrinaga Muguruza (Inmigrazio Teknikaria)
 * Aitor Mingo (Berdeak Equo)
+* David Rengel Larrea (Ikertzailea)
+* Iñaki Prieto Duñabeitia (Irakasle erretiratua)
+* M. Pilar Cidal López de Torre (Psikologoa)
 
 
 
