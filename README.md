@@ -81,7 +81,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Estibaliz Kortazar Errekatxo (Elkarrekin sumar bai)
 * Román Rodríguez Calleja	(Más Euskadi-Euskadi Eraiki)
 * Gotzon García Goti (Irakaslea)
-* Beatriz Marquina Garcia (Intervención social, movilidad humana)
+* Beatriz Marquina Garcia (Esku-hartze soziala, giza mugikortasuna)
 * Xabier Andrés Uriarte	(Funtzionarioa)
 * Luis Miguel Gorostiaga Alonso	(Independientea)
 * Lourdes Oñederra (Hizkuntzalaria-Idazlea)
