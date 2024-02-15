@@ -118,6 +118,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Ana Belén Peralta Flores (Gizarte langilea)
 * Asun Merinero Sierra (Historialia, batzarkide ohia Podemos Euskadi)
 * Victoria Lamas Veiga (Erretiratua)
+* Adrián Medrano (Programatzaile kulturala/ostalaria)
 
 
 
