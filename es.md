@@ -137,11 +137,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Jose Ramon Iñurrategui Pagalday (Jubilado)
 * Concha Castells (Independiente)
 * Catalina Gómez Arango (--)
-*  Margarita Toja Garamendi (Mungia Alkartu)
-*  Lala Juaristi Linacero (Jubilada y miembro de Podemos)
-*  Iratxe Amantegi (Trabajadora social)
-*  Jon Ander Tapia Bujan (Periodista)
-
+* Margarita Toja Garamendi (Mungia Alkartu)
+* Jon Ander Tapia Bujan (Periodista)
+* Lala Juaristi Linacero (Jubilada y miembro de Podemos)
+* Iratxe Amantegi (Trabajadora social)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
