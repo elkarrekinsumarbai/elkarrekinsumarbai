@@ -66,6 +66,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Eduardo Calvo González (Simpatizante)
 * Irene Euba Arroyo (Ezker Anitza-IU)
 * Carlos Becerra Villar (Funcionario jubilado/Ezker Anitza-IU)
+* Cristina Torre Azpitarte (Limpieza) 
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
