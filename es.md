@@ -201,6 +201,9 @@ Y para eso firmamos y difundimos esta reclamación.
 * Karmele Aza Barruetabeña (Activista feminista)
 * Juan Pablo Ibarra Cárcamo (Economista, jubilado)
 * Pedro Torralba (Jubilado)
+* Damian Rodriguez Velasco (Informático)
+* Raisa Iratxe García Isasa (Berdeak EQUO)
+* Josetxu Tapia Astobiza (Profesor jubilado)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
