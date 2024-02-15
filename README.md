@@ -280,6 +280,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 20. Esther Mendiaratz Jiménez (Masajean Diplomatua)
 21. Santiaho Patino Sanchez (Erretiratua)
 22. Carlos Ortigosa Villarejo	(Irakasle erretiratua)
+23. José Miguel Gonzalez de Audicana (Jubilatua)
+24. Lidia Muñoz Ucher (Berdeak Equo)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
