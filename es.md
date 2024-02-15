@@ -28,18 +28,23 @@ Y para eso firmamos y difundimos esta reclamación.
 * Juan Barredo (EHU)
 * Eder García López (Concejal Elkarrekin Sopela)
 * Ana María López Cubilla (Profesora EOI)
+* Jose Alvarez (Independiente)
 * Jon Bernat Zubiri Rey (Militante de Podemos y de Sumar)
 * Ángel Bao Pérez (Sumar/Ezker Anitza-IU)
 * Alvaro López (Ingeniero)
 * Nour edin (Obrero, Ezker Anitza-IU)
 * Manuela Ruiz Vivanco (Jubilada)
+* Ekaitz Cancela (Investigador)
 * Laura B.S. (Docente)
 * Antonio Duplá Ansuategui (Profesor UPV/EHU)
 * Araceli Ruiz (Sindicalista)
 * Antonio Valcuende (Ingeniero)
 * Santi Martínez (Sindicalista)
 * Begoña Zubiri Cearra (--)
+* Enrique Goikoetxea Iturregi (CCOO)
 * Amaia González Llama (Socióloga)
+* Iñaki Markez Alonso (Psiquiatra, Investigador social, Miembro de OME-AEN)
+* Alvaro Martín Estefania (Profesor)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
