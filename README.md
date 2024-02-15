@@ -55,6 +55,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Casimiro Castaño González (Ezker Anitza-IU)
 * Israel Escalante Mesón (IU-ko militantea)
 * Asier Hernández Juanes (Ingenieari Informatikoa)
+* José Manuel Ferradás (Kazetaria)
+* Ekain Larrinaga Muguruza (Inmigrazio Teknikaria)
 
 
 
