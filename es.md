@@ -79,7 +79,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Andrea Ruiz Balzola	(BEGIRUNE Fundazioa)
 * Estibaliz Kortazar Errekatxo (Elkarrekin sumar bai)
 * Román Rodríguez Calleja	(Más Euskadi-Euskadi Eraiki)
-* * Gotzon García Goti (Profesor)
+* Gotzon García Goti (Profesor)
 * Beatriz Marquina Garcia (Intervención social, movilidad humana)
 * Xabier Andrés Uriarte	(Funcionario)
 * Luis Miguel Gorostiaga Alonso	(Independiente)
@@ -107,6 +107,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Gemma Zubiaurre Urkiri (Profesoara jubilada y Sumar Mugimendua)
 * Germán García Marroquín	(Jubilado)
 * Alfredo Herbosa López (Jubilado)
+* Koldo Unceta (Catedrático jubilado UPV/EHU)
+* Miren Yosu Gregorio Espinosa (Ezker Anitza/Izquierda Unida)
 
 
 
