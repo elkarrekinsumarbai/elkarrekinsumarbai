@@ -60,6 +60,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Iñaki Prieto Duñabeitia (Profesor jubilado)
 * M. Pilar Cidal López de Torre (Psicóloga)
 * Adrián Vázquez (Ezker Anitza-IU)
+* Raimundo Rubio Carcedo (Podemos Portugalete)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
