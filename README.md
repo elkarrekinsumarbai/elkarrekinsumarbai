@@ -139,6 +139,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Concha Castells (Independientea)
 * Catalina Gómez Arango (--)
 * Margarita Toja Garamendi (Mungia Alkartu)
+* Jon Ander Tapia Bujan (Berdeak Equo)
 * Lala Juaristi Linacero (Erretiratua eta Podemos-eko langilea)
 * Iratxe Amantegi (Gizarte langilea)
 
