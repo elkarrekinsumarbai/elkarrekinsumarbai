@@ -61,6 +61,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Iñaki Prieto Duñabeitia (Irakasle erretiratua)
 * M. Pilar Cidal López de Torre (Psikologoa)
 * Adrián Vázquez (Ezker Anitza-IU)
+* Raimundo Rubio Carcedo (Podemos Portugalete) 
 
 
 
