@@ -208,6 +208,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Pablo García de Vicuña Peñafiel (CCOO Irakaskuntza)
 * Genma Sánchez Mugarra (Jubilada)
 * Jesus Herrero Arranz (Ingeniero informático)
+* Yolanda Rezola Salvador (Pensionista)
+* Susana Andollo Gonzalez (Ex Podemos)
+* Xabier Askasibar Renobales (Profesor)
+* Josune Urquijo Muruaga (OEE)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
