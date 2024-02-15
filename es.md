@@ -49,7 +49,6 @@ Y para eso firmamos y difundimos esta reclamación.
 * Marijo Madariaga Rola	(Jubilada)
 * Iker Bartolomé Nieto (Ezker Anitza-IU Ortuella)
 * Arantza Urcelay Salcedo	(Jubilada)
-* M. Pilar Cidal López de Torre (Psicóloga)
 * Iñaki Valentín Pérez (militante en colectivos sociales)
 * Casimiro Castaño González (Ezker Anitza-IU)
 * Israel Escalante Mesón (Militante de IU)
@@ -57,6 +56,9 @@ Y para eso firmamos y difundimos esta reclamación.
 * José Manuel Ferradás (Periodista)
 * Ekain Larrinaga Muguruza (Técnico inmigración)
 * Aitor Mingo (Berdeak Equo)
+* David Rengel Larrea (Investigador)
+* Iñaki Prieto Duñabeitia (Profesor jubilado)
+* M. Pilar Cidal López de Torre (Psicóloga)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
