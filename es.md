@@ -215,11 +215,11 @@ Y para eso firmamos y difundimos esta reclamación.
 * Endika Etxeandia (Jubilado)
 * Clara Murguialday (Feministas por Nicaragua)
 * Diego Fuentes Luque (Podemos)
-* Rosa Axpe Pascual (Osakidetza, jubilado)
-* María Isabel García García (Profesora, IU/Ezker Anitza)
+* Rosa Axpe Pascual (Osakidetza, jubilada)
 * Luis E. Alegre Arteche (Jubilado)
 * Iñaki Andres (Jubilado)
-* Txema Cifuentes Costela (Profesor jubilado) 
+* Txema Cifuentes Costela (Profesor jubilado)
+* María Isabel García García (Profesora, IU/Ezker Anitza)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
