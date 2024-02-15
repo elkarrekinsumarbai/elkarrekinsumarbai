@@ -69,7 +69,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Eneida de la Iglesia Vélez (Ezker Anitza-IU)
 * Ricardo San Segundo (Jubilado)
 * José Simón (Jubilado) 
-* Cristina Torre Azpitarte (Limpieza) 
+* Cristina Torre Azpitarte (Limpieza)
+* Luis Arbide González (Activista)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
