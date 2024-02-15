@@ -118,6 +118,12 @@ Y para eso firmamos y difundimos esta reclamación.
 * Asun Merinero Sierra (Historiadora, ex juntera de Podemos Euskadi)
 * Victoria Lamas Veiga (Jubilada)
 * Adrián Medrano (Programador cultural/ hostelero)
+* Sergio Gonzalez Miguel (Sindicalista)
+* Virginia Medina Alvarado (Jubilada y ciudadana preocupada)
+* Rafael Garde Vicinay (Podemos)
+* Alberto García Cortés	(--)
+* Nekane Santos Tijero (Alimentadora de colonia federal)
+* Gaizka Esparza (Periodista)
 
 
 
