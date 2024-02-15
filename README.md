@@ -27,8 +27,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Enrique Olaso García (Irakaslea)
 * Igone Arteagabeitia Chavarri (Erretiratua)
 * Juan Barredo (EHU)
-* Eder García López (Concejal Elkarrekin Sopela)
-* Ana María López Cubilla (Profesora EOI)
+* Eder García López (Zinegotzia Elkarrekin Sopela)
+* Ana María López Cubilla (HEOI Irakaslea)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
