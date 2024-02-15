@@ -254,6 +254,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Alfonso Fernández (Jubilado)
 * Juantxo Domínguez (Miembro de Sumar y Podemos Euskadi)
 * Juan Luis Lugarezaresti Goikoetxea (Jubilado)
+* Jose Pérez Bilbao (Por libre)
+* Estibaliz Urkijo Azkarate (Trabajadora Social)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
