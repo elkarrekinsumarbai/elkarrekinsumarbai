@@ -219,6 +219,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Luis E. Alegre Arteche (Jubilado)
 * Iñaki Andres (Jubilado)
 * Txema Cifuentes Costela (Profesor jubilado)
+* Montserrat marañon martinez (Pensionista) 
 * María Isabel García García (Profesora, IU/Ezker Anitza)
 
 <meta property="og:title" content="elkarrekinsumarbai">
