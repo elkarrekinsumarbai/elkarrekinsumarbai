@@ -119,6 +119,11 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Asun Merinero Sierra (Historialia, batzarkide ohia Podemos Euskadi)
 * Victoria Lamas Veiga (Erretiratua)
 * Adrián Medrano (Programatzaile kulturala/ostalaria)
+* Sergio Gonzalez Miguel (Sindikalista)
+* Virginia Medina Alvarado (Erretiratua y hiritar kezkatua)
+* Rafael Garde Vicinay (Podemos)
+* Alberto García Cortés	(--)
+* Gaizka Esparza (Kazetaria)
 
 
 
