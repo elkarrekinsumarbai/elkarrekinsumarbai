@@ -19,6 +19,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 ## Sinatzaileen zerrenda
 * Imanol Zubero Beaskoetxea (Soziologoa)
 * Andoni Basterra Urrutia (Sindikalista)
+* Enrique Olaso García (Irakaslea)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
