@@ -62,6 +62,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Adrián Vázquez (Ezker Anitza-IU)
 * Raimundo Rubio Carcedo (Podemos Portugalete)
 * Sabin Zubiri Rey (Activista social, sindical y político)
+* Miguel Virizuela Echaburu (Jubilado)
+* Eduardo Calvo González (Simpatizante)
+* Irene Euba Arroyo (Ezker Anitza-IU)
+* Carlos Becerra Villar (Funcionario jubilado/Ezker Anitza-IU)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
