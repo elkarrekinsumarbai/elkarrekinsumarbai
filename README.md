@@ -287,7 +287,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 27. Gorka Nogal Laguna (Erretiratua)
 28. Juanjo Vallejo García (Ezker Anitza-IU)
 29. Carlos Pérez (Profesional independientea)
-30. Imanol Martín Prieto (Ezker Anitza, politologoa eta gozotegiko arduraduna) 
+30. Imanol Martín Prieto (Ezker Anitza, politologoa eta gozotegiko arduraduna)
+31. Alicia Robles Alonso (Podemos)
 
 
 
