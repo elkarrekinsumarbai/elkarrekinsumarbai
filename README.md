@@ -214,7 +214,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Xabier Askasibar Renobales (Irakaslea)
 * Josune Urquijo Muruaga (OEE)
 * Endika Etxeandia (Erretiratua)
-* Clara Murguialday (Nikaraguaren aldeko feministak) 
+* Clara Murguialday (Nikaraguaren aldeko feministak)
+* Diego Fuentes Luque (Podemos)
 
 
 
