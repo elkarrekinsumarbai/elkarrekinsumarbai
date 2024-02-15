@@ -67,7 +67,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Eduardo Calvo González (Jarraitzailea)
 * Irene Euba Arroyo (Ezker Anitza-IU)
 * Carlos Becerra Villar (Funtzionario erretiratua/Ezker Anitza-IU)
+* Eneida de la Iglesia Vélez (Ezker Anitza-IU)
 * Cristina Torre Azpitarte (Garbikuntza)
+
 
 
 
