@@ -71,6 +71,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Ricardo San Segundo (Erretiratua)
 * José Simón (Erretiratua) 
 * Cristina Torre Azpitarte (Garbikuntza)
+* Luis Arbide González (Aktibista)
 
 
 
