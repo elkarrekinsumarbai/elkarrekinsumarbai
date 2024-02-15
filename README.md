@@ -209,6 +209,11 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Pablo García de Vicuña Peñafiel (CCOO Irakaskuntza)
 * Genma Sánchez Mugarra (Erretiratua)
 * Jesus Herrero Arranz (Ingeniari informatikoa)
+* Yolanda Rezola Salvador (Pentsioduna)
+* Susana Andollo Gonzalez (Podemos-eko ohia)
+* Xabier Askasibar Renobales (Irakaslea)
+* Josune Urquijo Muruaga (OEE)
+* Endika Etxeandia (Erretiratua) 
 
 
 
