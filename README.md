@@ -217,10 +217,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Clara Murguialday (Nikaraguaren aldeko feministak)
 * Diego Fuentes Luque (Podemos)
 * Rosa Axpe Pascual (Osakidetza, erretiratua)
-* María Isabel García García (Irakaslea, IU/Ezker Anitza)
 * Luis E. Alegre Arteche (Erretiratua)
 * Iñaki Andres (Erretiratua)
-* Txema Cifuentes Costela (Irakasle erretiratua) 
+* Txema Cifuentes Costela (Irakasle erretiratua)
+* María Isabel García García (Irakaslea, IU/Ezker Anitza)
 
 
 
