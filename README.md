@@ -60,6 +60,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * David Rengel Larrea (Ikertzailea)
 * Iñaki Prieto Duñabeitia (Irakasle erretiratua)
 * M. Pilar Cidal López de Torre (Psikologoa)
+* Adrián Vázquez (Ezker Anitza-IU)
 
 
 
