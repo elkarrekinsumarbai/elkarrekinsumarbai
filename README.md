@@ -251,6 +251,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Marian Arbide Basterrechea (Feminista)
 * María Milagros Resa Santamaría (Erretiratua)
 * Garbiñe Santa Coloma (Más Euskadi)
+* Pablo Bocca (EPK-PCE Gasteiz, Funcionario Público)
 
 
 
