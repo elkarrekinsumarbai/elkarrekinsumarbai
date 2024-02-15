@@ -72,6 +72,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * José Simón (Erretiratua) 
 * Cristina Torre Azpitarte (Garbikuntza)
 * Luis Arbide González (Aktibista)
+* Juan Antonio Jericó Fernández (Equo Berdeak)
 
 
 
