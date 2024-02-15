@@ -45,6 +45,11 @@ Y para eso firmamos y difundimos esta reclamación.
 * Amaia González Llama (Socióloga)
 * Iñaki Markez Alonso (Psiquiatra, Investigador social, Miembro de OME-AEN)
 * Alvaro Martín Estefania (Profesor)
+* Nuntxi Sancho Valdivielso (Profesora jubilada)
+* Marijo Madariaga Rola	(Jubilada)
+* Iker Bartolomé Nieto (Ezker Anitza-IU Ortuella)
+* Arantza Urcelay Salcedo	(Jubilada)
+* M. Pilar Cidal López de Torre (Psicóloga)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
