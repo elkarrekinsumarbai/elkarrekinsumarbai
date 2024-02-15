@@ -83,7 +83,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Beatriz Marquina Garcia (Intervención social, movilidad humana)
 * Xabier Andrés Uriarte	(Funcionario)
 * Luis Miguel Gorostiaga Alonso	(Independiente)
-* Lourdes Oñederra (Hizkuntzalaria-Idazlea)
+* Lourdes Oñederra (Lingüista-Escritora)
 * Ander Valentin Aparicio	(Estudiante)
 
 
