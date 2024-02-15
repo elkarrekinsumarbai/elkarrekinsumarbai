@@ -140,6 +140,7 @@ Y para eso firmamos y difundimos esta reclamación.
 *  Margarita Toja Garamendi (Mungia Alkartu)
 *  Lala Juaristi Linacero (Jubilada y miembro de Podemos)
 *  Iratxe Amantegi (Trabajadora social)
+*  Jon Ander Tapia Bujan (Periodista)
 
 
 
