@@ -244,7 +244,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Ángel Pérez Butrón (Erretiratua)
 * Christian Bolaños (Software garatzailea)
 * Isabel Llorente Fernandez de Nograro (Funtzionarioa)
-
+* Eider Berazadi Aramendi (Irakaslea)
+* Nieves Miguel Izquierdo (Erretiratua)
+* Guillermo Ruiz Irastorza (Osakidetzako medikua)
+* Jon Korta Murua (Langilea)
 
 
 
