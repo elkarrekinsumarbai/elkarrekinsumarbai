@@ -178,6 +178,16 @@ Y para eso firmamos y difundimos esta reclamación.
 * Nieves Terán (Ciudadana)
 * Rosa Igartua (Jubilada)
 * Pablo Larrauri (Podemos)
+* Gentzane Madariaga Martin (Educadora social)
+* Elena Aizpitarte Larrañaga (Profesora)
+* Ricardo Antón Troyas (des-artista)
+* Montse Viloria (Hezkuntza)
+* Isabel Ortiz de Urbina Arruabarrena (Profesora jubilada)
+* Maite Martínez (Profesora jubilada)
+* Beatriz Muñoz Liedo (Educación Social)
+* Amelia Escolano Bernabe (TCAE)
+* Miguel Mata Gonzalez (Ex responsable territorial de CC.OO. en Bizkaia)
+* Mikel Barba del Horno (Profesor)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
