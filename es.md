@@ -212,6 +212,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Susana Andollo Gonzalez (Ex Podemos)
 * Xabier Askasibar Renobales (Profesor)
 * Josune Urquijo Muruaga (OEE)
+* Endika Etxeandia (Jubilado) 
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
