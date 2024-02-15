@@ -220,6 +220,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Luis E. Alegre Arteche (Erretiratua)
 * Iñaki Andres (Erretiratua)
 * Txema Cifuentes Costela (Irakasle erretiratua)
+* Montserrat Marañon Martinez (Pentsioduna) 
 * María Isabel García García (Irakaslea, IU/Ezker Anitza)
 
 
