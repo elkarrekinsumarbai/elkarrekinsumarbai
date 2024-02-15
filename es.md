@@ -125,7 +125,13 @@ Y para eso firmamos y difundimos esta reclamación.
 * Gaizka Esparza (Periodista)
 * Juan Agustin Aizpuru Izaguirre	(Usansolo Herria)
 * Ignacio Garay (Profesor)
-* Luis Alejos	(Podemos Bilbao) 
+* Luis Alejos	(Podemos Bilbao)
+* Fidencio Bao Pérez (Osakidetza)
+* Ana Martín (Combatiente por la justicia social)
+* Rubén Belandia Fradejas (Bibliotecario y militante de Podemos)
+* Cristina Sánchez Isasi (Educadora)
+* Susana Carro Ripalda (Antropóloga, independiente)
+* Imanol Ziarsolo	(Jubilado)
 
 
 
