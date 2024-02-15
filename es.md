@@ -71,6 +71,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * José Simón (Jubilado) 
 * Cristina Torre Azpitarte (Limpieza)
 * Luis Arbide González (Activista)
+* Juan Antonio Jericó Fernández (Equo Berdeak)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
