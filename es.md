@@ -227,6 +227,22 @@ Y para eso firmamos y difundimos esta reclamación.
 * Aritz Zabala Iturbe (Auxiliar administrativo)
 * Marije Goikoetxea Iturregui (Profesora Etica Universidad de Deusto)
 * Sonia Galiana Saiz (Funcionaria)
+* Paco Castells Carrilo (Jubilado)
+* Jesús Muro Gastañaga (Jubilado)
+* Pilar Alegría Iscoa (Jubilada)
+* Joseba Elorrieta Mendiola	(Trabajador)
+* Juan Manuel Belamendia Belda (Más Euskadi-Euskadi Eraiki)
+* Maria Jose Sola	(Bibliotecaria/feminista)
+* Victoria Párraga Tello (Enseñante)
+* Luisa Menendez Agirre (Feminista)
+* Iñaki Bolibar Garmendia	(Arquitecto)
+* José Luis Gómez Ledesma (Podemos)
+* Marta Ferrer Gutierrez (Responsable de Recursos Humanos y Legal)
+* Fabián Laespada Martinez (Profesor)
+* Maika Lolo López (Profesora)
+* Ángel Pérez Butrón (Jubilado)
+* Christian Bolaños	(Desarrollador de software)
+* Isabel Llorente Fernandez de Nograro (Funcionaria)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
