@@ -256,6 +256,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Juan Luis Lugarezaresti Goikoetxea (Jubilado)
 * Jose Pérez Bilbao (Por libre)
 * Estibaliz Urkijo Azkarate (Trabajadora Social)
+* Tomás Armán García (Informático)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
