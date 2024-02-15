@@ -251,6 +251,9 @@ Y para eso firmamos y difundimos esta reclamación.
 * María Milagros Resa Santamaría (Jubilada)
 * Garbiñe Santa Coloma (Más Euskadi)
 * Pablo Bocca (EPK-PCE Gasteiz, Funcionario Público)
+* Alfonso Fernández (Jubilado)
+* Juantxo Domínguez (Miembro de Sumar y Podemos Euskadi)
+* Juan Luis Lugarezaresti Goikoetxea (Jubilado)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
