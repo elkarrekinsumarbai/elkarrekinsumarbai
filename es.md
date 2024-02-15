@@ -135,7 +135,9 @@ Y para eso firmamos y difundimos esta reclamación.
 * Iker Atxaga Gallo (Vigilante)
 * Puri Perez Rojo (Pensionista)
 * Jose Ramon Iñurrategui Pagalday (Jubilado)
-* Margarita Toja Garamendi (Mungia Alkartu)
+* Concha Castells (Independiente)
+* Catalina Gómez Arango (--)
+*  Margarita Toja Garamendi (Mungia Alkartu)
 
 
 
