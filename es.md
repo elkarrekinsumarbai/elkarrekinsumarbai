@@ -204,6 +204,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Damian Rodriguez Velasco (Informático)
 * Raisa Iratxe García Isasa (Berdeak EQUO)
 * Josetxu Tapia Astobiza (Profesor jubilado)
+* Laura Yanguas Aguirre (Jurista y militante del quinto espacio político)
+* Pablo García de Vicuña Peñafiel (CCOO Irakaskuntza)
+* Genma Sánchez Mugarra (Jubilada)
+* Jesus Herrero Arranz (Ingeniero informático)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
