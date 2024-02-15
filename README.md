@@ -248,6 +248,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Nieves Miguel Izquierdo (Erretiratua)
 * Guillermo Ruiz Irastorza (Osakidetzako medikua)
 * Jon Korta Murua (Langilea)
+* Marian Arbide Basterrechea (Feminista)
+* María Milagros Resa Santamaría (Erretiratua)
+* Garbiñe Santa Coloma (Más Euskadi)
 
 
 
