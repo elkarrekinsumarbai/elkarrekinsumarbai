@@ -19,6 +19,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 ## Sinatzaileen zerrenda
 * Imanol Zubero Beaskoetxea (Soziologoa)
 * Itxaso Alonso Arana (Funtzionario)
+* Loic Alejandro (Autonomoa)
+* Iker Bereciartua Castrillo (Berdeak Equo)
 * Andoni Basterra Urrutia (Sindikalista)
 * Enrique Olaso García (Irakaslea)
 
