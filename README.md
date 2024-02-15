@@ -278,6 +278,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 18. Gorka Eizaguirre Bilbao (irakaslea)
 19. Jose Manuel Susperregi Martin	(LSB-USO)
 20. Esther Mendiaratz Jiménez (Masajean Diplomatua)
+21. Santiaho Patino Sanchez (Erretiratua)
+22. Carlos Ortigosa Villarejo	(Irakasle erretiratua)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
