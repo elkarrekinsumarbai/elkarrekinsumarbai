@@ -250,6 +250,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Marian Arbide Basterrechea (Feminista)
 * María Milagros Resa Santamaría (Jubilada)
 * Garbiñe Santa Coloma (Más Euskadi)
+* Pablo Bocca (EPK-PCE Gasteiz, Funcionario Público)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
