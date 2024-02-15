@@ -161,7 +161,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Eduardo Urturi Martìnez (Goiener)
 * Pablo Fernández Mezo (Elkarrekin Sestaoko zinegotzia)
 * Ana Laura López (Pentsioduna)
-* Francisco Antonio Rodríguez Velasco	(Bozeramailea)
+* Francisco Antonio Rodríguez Velasco	(Podemos Urdulizeko bozeramailea)
 * Fabio Cavaliere (Más Euskadi)
 * Isidoro Lozano (Giza hezitzailea)
 * Ruth Herrera Manzanera (Postaria)
