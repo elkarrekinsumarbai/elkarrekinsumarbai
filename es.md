@@ -286,7 +286,8 @@ Y para eso firmamos y difundimos esta reclamación.
 27. Gorka Nogal Laguna (Jubilado)
 28. Juanjo Vallejo García (Ezker Anitza IU)
 29. Carlos Pérez (Profesional independiente)
-30. Imanol Martín Prieto (Ezker Anitza, politólogo y encargado de una pastelería) 
+30. Imanol Martín Prieto (Ezker Anitza, politólogo y encargado de una pastelería)
+31. Alicia Robles Alonso (Inscrita Podemos)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
