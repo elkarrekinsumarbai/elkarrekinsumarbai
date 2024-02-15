@@ -172,7 +172,12 @@ Y para eso firmamos y difundimos esta reclamación.
 * Idoia Martínez de Murgia (Profesora)
 * José Alfonso Antequera Chavéz	(Basauri)
 * Begoña Morote Segurola (de izquierdas y contra el capitalismo)
-
+* Maria Begoña Iriarte Campo (Psicologa)
+* Miguel Aranburuzabala	(UPV-EHU)
+* Ander Gutiérrez-Solana (Profesor UPV/EHU)
+* Nieves Terán (Ciudadana)
+* Rosa Igartua (Jubilada)
+* Pablo Larrauri (Podemos)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
