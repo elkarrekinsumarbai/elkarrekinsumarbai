@@ -257,6 +257,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Juan Luis Lugarezaresti Goikoetxea (Erretiratua)
 * Jose Pérez Bilbao (Por libre)
 * Estibaliz Urkijo Azkarate (Gizarte langilea)
+* Tomás Armán García (Informatikaria)
 
 
 
