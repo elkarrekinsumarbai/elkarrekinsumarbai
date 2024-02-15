@@ -16,7 +16,8 @@ Por eso apelamos a las organizaciones para que lo vuelvan a intentar, para que s
 Y para eso firmamos y difundimos esta reclamación.
 
 ## Listado de firmantes
-* Nombre Apellidos
+* Imanol Zubero Beaskoetxea (Sociólogo)
+* Andoni Basterra Urrutia (Sindicalista)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
