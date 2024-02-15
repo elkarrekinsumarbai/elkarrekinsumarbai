@@ -257,6 +257,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Jose Pérez Bilbao (Por libre)
 * Estibaliz Urkijo Azkarate (Trabajadora Social)
 * Tomás Armán García (Informático)
+* Arantza Semprun (Ezker Anitza-IU, CCOO, irakasle ohia)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
