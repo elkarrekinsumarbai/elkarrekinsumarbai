@@ -213,7 +213,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Susana Andollo Gonzalez (Podemos-eko ohia)
 * Xabier Askasibar Renobales (Irakaslea)
 * Josune Urquijo Muruaga (OEE)
-* Endika Etxeandia (Erretiratua) 
+* Endika Etxeandia (Erretiratua)
+* Clara Murguialday (Nikaraguaren aldeko feministak) 
 
 
 
