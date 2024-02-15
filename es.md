@@ -138,6 +138,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Concha Castells (Independiente)
 * Catalina Gómez Arango (--)
 *  Margarita Toja Garamendi (Mungia Alkartu)
+*  Lala Juaristi Linacero (Jubilada y miembro de Podemos)
+*  Iratxe Amantegi (Trabajadora social)
 
 
 
