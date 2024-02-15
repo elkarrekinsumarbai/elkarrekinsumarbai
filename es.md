@@ -212,7 +212,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Susana Andollo Gonzalez (Ex Podemos)
 * Xabier Askasibar Renobales (Profesor)
 * Josune Urquijo Muruaga (OEE)
-* Endika Etxeandia (Jubilado) 
+* Endika Etxeandia (Jubilado)
+* Clara Murguialday (Feministas por Nicaragua)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
