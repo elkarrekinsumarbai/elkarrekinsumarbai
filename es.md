@@ -160,7 +160,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Eduardo Urturi Martìnez (Goiener)
 * Pablo Fernández Mezo (Concejal de Elkarrekin Sestao)
 * Ana Laura López (Pensionista)
-* Francisco Antonio Rodríguez Velasco	(Portavoz)
+* Francisco Antonio Rodríguez Velasco	(Portavoz Podemos Urduliz)
 * Fabio Cavaliere (Más Euskadi)
 * Isidoro Lozano (Educador Social)
 * Ruth Herrera Manzanera (Cartera)
