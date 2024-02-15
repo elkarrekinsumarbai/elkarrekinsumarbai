@@ -16,8 +16,7 @@ Por eso apelamos a las organizaciones para que lo vuelvan a intentar, para que s
 Y para eso firmamos y difundimos esta reclamación.
 
 ## Listado de firmantes
-* Nombre Apellidos (organización)
-* Nombre Apellidos (organización)
+* Nombre Apellidos
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
