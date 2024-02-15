@@ -255,6 +255,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Alfonso Fernández (Erretiratua)
 * Juantxo Domínguez (Sumar eta Podemos Euskadiko kidea)
 * Juan Luis Lugarezaresti Goikoetxea (Erretiratua)
+* Jose Pérez Bilbao (Por libre)
+* Estibaliz Urkijo Azkarate (Gizarte langilea)
 
 
 
