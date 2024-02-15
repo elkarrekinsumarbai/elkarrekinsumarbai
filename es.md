@@ -243,6 +243,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Ángel Pérez Butrón (Jubilado)
 * Christian Bolaños	(Desarrollador de software)
 * Isabel Llorente Fernandez de Nograro (Funcionaria)
+* Eider Berazadi Aramendi (Profesor)
+* Nieves Miguel Izquierdo (Jubilada)
+* Guillermo Ruiz Irastorza (Médico de Osakidetza)
+* Jon Korta Murua (Trabajador)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
