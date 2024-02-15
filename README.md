@@ -282,6 +282,11 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 22. Carlos Ortigosa Villarejo	(Irakasle erretiratua)
 23. José Miguel Gonzalez de Audicana (Jubilatua)
 24. Lidia Muñoz Ucher (Berdeak Equo)
+25. Miguel Burdallo Bautista (Ezker Anitza-IU)
+26. Aurelio González Somavilla (Equo Berdeak)
+27. Gorka Nogal Laguna (Erretiratua)
+28. Juanjo Vallejo García (Ezker Anitza-IU)
+
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
