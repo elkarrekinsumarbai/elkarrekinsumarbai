@@ -54,6 +54,8 @@ Y para eso firmamos y difundimos esta reclamación.
 * Casimiro Castaño González (Ezker Anitza-IU)
 * Israel Escalante Mesón (Militante de IU)
 * Asier Hernández Juanes (Ingeniero Informático)
+* José Manuel Ferradás (Periodista)
+* Ekain Larrinaga Muguruza (Técnico inmigración)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
