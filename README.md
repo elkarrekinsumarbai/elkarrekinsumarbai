@@ -80,6 +80,12 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Andrea Ruiz Balzola	(BEGIRUNE Fundazioa)
 * Estibaliz Kortazar Errekatxo (Elkarrekin sumar bai)
 * Román Rodríguez Calleja	(Más Euskadi-Euskadi Eraiki)
+* Gotzon García Goti (Irakaslea)
+* Beatriz Marquina Garcia (Intervención social, movilidad humana)
+* Xabier Andrés Uriarte	(Funtzionario)
+* Luis Miguel Gorostiaga Alonso	(Independientea)
+* Lourdes Oñederra (Hizkuntzalaria-Idazlea)
+* Ander Valentin Aparicio	(Ikaslea)
 
 
 
