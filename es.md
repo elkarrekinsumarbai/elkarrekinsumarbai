@@ -279,6 +279,8 @@ Y para eso firmamos y difundimos esta reclamación.
 20. Esther Mendiaratz Jiménez (Diplomada en masaje)
 21. Santiaho Patino Sanchez	(Jubilado)
 22. Carlos Ortigosa Villarejo	(Profesor jubilado de EE. MM.)
+23. José Miguel Gonzalez de Audicana (Jubilado)
+24. Lidia Muñoz Ucher	(Berdeak Equo)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
