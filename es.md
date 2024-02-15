@@ -32,7 +32,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Jon Bernat Zubiri Rey (Militante de Podemos y de Sumar)
 * Ángel Bao Pérez (Sumar/Ezker Anitza-IU)
 * Alvaro López (Ingeniero)
-* Nour edin (Obrero, Ezker Anitza-IU)
+* Nour Edin (Obrero, Ezker Anitza-IU)
 * Manuela Ruiz Vivanco (Jubilada)
 * Ekaitz Cancela (Investigador)
 * Laura B.S. (Docente)
