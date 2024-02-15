@@ -138,7 +138,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Concha Castells (Independiente)
 * Catalina Gómez Arango (--)
 * Margarita Toja Garamendi (Mungia Alkartu)
-* Jon Ander Tapia Bujan (Periodista)
+* Jon Ander Tapia Bujan (Berdeak Equo)
 * Lala Juaristi Linacero (Jubilada y miembro de Podemos)
 * Iratxe Amantegi (Trabajadora social)
 
