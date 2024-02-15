@@ -190,7 +190,17 @@ Y para eso firmamos y difundimos esta reclamación.
 * Mikel Barba del Horno (Profesor)
 * Amparo iriarte Campo (--)
 * Miren Llona (Feminista)
-
+* Rosa María Castro Martinez (Técnico)
+* Bingen Villate Ezquerra	(AILEDI Kristau Komunitatea)
+* Gaizko Urturi Aldama (Profesor)
+* Iñaki Acha Oñate (Pensionista/Podemos)
+* Diego Aviles (PCE-EPK/EZKER ANITZA/CC.OO.)
+* Ana Cobo Gomez (Trabajadora social)
+* Oskar Moreno Alonso (Pensionista)
+* Arantza Maguregui Rodríguez (Jubilada)
+* Karmele Aza Barruetabeña (Activista feminista)
+* Juan Pablo Ibarra Cárcamo (Economista, jubilado)
+* Pedro Torralba (Jubilado)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
