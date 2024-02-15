@@ -285,6 +285,7 @@ Y para eso firmamos y difundimos esta reclamación.
 26. Aurelio González Somavilla (Equo Berdeak)
 27. Gorka Nogal Laguna (Jubilado)
 28. Juanjo Vallejo García (Ezker Anitza IU)
+29. Carlos Pérez (Profesional independiente) 
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
