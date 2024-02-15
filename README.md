@@ -18,6 +18,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 
 ## Sinatzaileen zerrenda
 * Imanol Zubero Beaskoetxea (Soziologoa)
+* Itxaso Alonso Arana (Funtzionario)
 * Andoni Basterra Urrutia (Sindikalista)
 * Enrique Olaso García (Irakaslea)
 
