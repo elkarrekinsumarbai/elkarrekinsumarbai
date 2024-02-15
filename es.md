@@ -17,6 +17,7 @@ Y para eso firmamos y difundimos esta reclamación.
 
 ## Listado de firmantes
 * Imanol Zubero Beaskoetxea (Sociólogo)
+* Itxaso Alonso Arana (Funcionaria)
 * Andoni Basterra Urrutia (Sindicalista)
 * Enrique Olaso García (Profesor)
 
