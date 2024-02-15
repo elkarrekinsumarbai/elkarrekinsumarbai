@@ -123,6 +123,9 @@ Y para eso firmamos y difundimos esta reclamación.
 * Rafael Garde Vicinay (Podemos)
 * Alberto García Cortés	(--)
 * Gaizka Esparza (Periodista)
+* Juan Agustin Aizpuru Izaguirre	(Usansolo Herria)
+* Ignacio Garay (Profesor)
+* Luis Alejos	(Podemos Bilbao) 
 
 
 
