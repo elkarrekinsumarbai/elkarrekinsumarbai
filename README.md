@@ -252,6 +252,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * María Milagros Resa Santamaría (Erretiratua)
 * Garbiñe Santa Coloma (Más Euskadi)
 * Pablo Bocca (EPK-PCE Gasteiz, Funtzionario publikoa)
+* Alfonso Fernández (Erretiratua)
+* Juantxo Domínguez (Sumar eta Podemos Euskadiko kidea)
+* Juan Luis Lugarezaresti Goikoetxea (Erretiratua)
 
 
 
