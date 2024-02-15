@@ -25,6 +25,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Eder Alvarez Rivera (Politologoa)
 * Andoni Basterra Urrutia (Sindikalista)
 * Enrique Olaso García (Irakaslea)
+* Igone Arteagabeitia Chavarri (Erretiratua)
+* Juan Barredo (EHU)
+* Eder García López (Concejal Elkarrekin Sopela)
+* Ana María López Cubilla (Profesora EOI)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
