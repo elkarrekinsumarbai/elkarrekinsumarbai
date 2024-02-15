@@ -277,6 +277,8 @@ Y para eso firmamos y difundimos esta reclamación.
 18. Gorka Eizaguirre Bilbao (profesor)
 19. Jose Manuel Susperregi Martin	(LSB-USO)
 20. Esther Mendiaratz Jiménez (Diplomada en masaje)
+21. Santiaho Patino Sanchez	(Jubilado)
+22. Carlos Ortigosa Villarejo	(Profesor jubilado de EE. MM.)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
