@@ -136,6 +136,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Iker Atxaga Gallo (Zaindaria)
 * Puri Perez Rojo (Pentsioduna)
 * Jose Ramon Iñurrategui Pagalday (Erretiratua)
+* Concha Castells (Independientea)
+* Catalina Gómez Arango (--)
 * Margarita Toja Garamendi (Mungia Alkartu)
 
 
