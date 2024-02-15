@@ -214,6 +214,7 @@ Y para eso firmamos y difundimos esta reclamación.
 * Josune Urquijo Muruaga (OEE)
 * Endika Etxeandia (Jubilado)
 * Clara Murguialday (Feministas por Nicaragua)
+* Diego Fuentes Luque (Podemos)
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
