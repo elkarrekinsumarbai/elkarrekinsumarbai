@@ -222,6 +222,12 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Txema Cifuentes Costela (Irakasle erretiratua)
 * Montserrat Marañon Martinez (Pentsioduna) 
 * María Isabel García García (Irakaslea, IU/Ezker Anitza)
+* Oskar Arenas Velasco (Sindikalista CCOO de Euskadi)
+* Joseba Andoni Duoandikoetxea Zuazo (Erretiratua)
+* Elisabet de Paz Suárez (Irakaslea)
+* Aritz Zabala Iturbe	(Administrari-laguntzailea)
+* Marije Goikoetxea Iturregui (Profesora Etica Universidad de Deusto)
+* Sonia Galiana Saiz (Funcionaria)
 
 
 
