@@ -116,6 +116,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * David Alday San Cristóbal (Hezitzailea)
 * Leticia Jiménez Loza (Administraria)
 * Ana Belén Peralta Flores (Gizarte langilea)
+* Asun Merinero Sierra (Historialia, batzarkide ohia Podemos Euskadi)
+* Victoria Lamas Veiga (Erretiratua)
 
 
 
