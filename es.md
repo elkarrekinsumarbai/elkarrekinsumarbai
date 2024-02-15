@@ -72,6 +72,13 @@ Y para eso firmamos y difundimos esta reclamación.
 * Cristina Torre Azpitarte (Limpieza)
 * Luis Arbide González (Activista)
 * Juan Antonio Jericó Fernández (Equo Berdeak)
+* Jorge Barrón Fernández (OSALDE, Organización para la Defensa del Derecho a la Salud, País Vasco)
+* Roberto Sainz Sainz	(Trabajador)
+* Asier Rodriguez Villa	(Derechos Humanos)
+* Xabier Martín Corcuera (Médico)
+* Andrea Ruiz Balzola	(BEGIRUNE Fundazioa)
+* Estibaliz Kortazar Errekatxo (Elkarrekin sumar bai)
+* Román Rodríguez Calleja	(Más Euskadi-Euskadi Eraiki)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
