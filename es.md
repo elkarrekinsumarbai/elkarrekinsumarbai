@@ -24,6 +24,10 @@ Y para eso firmamos y difundimos esta reclamación.
 * Eder Alvarez Rivera (Politólogo)
 * Andoni Basterra Urrutia (Sindicalista)
 * Enrique Olaso García (Profesor)
+* Igone Arteagabeitia Chavarri (Jubilada)
+* Juan Barredo (EHU)
+* Eder García López (Concejal Elkarrekin Sopela)
+* Ana María López Cubilla (Profesora EOI)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
