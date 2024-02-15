@@ -258,6 +258,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Jose Pérez Bilbao (Por libre)
 * Estibaliz Urkijo Azkarate (Gizarte langilea)
 * Tomás Armán García (Informatikaria)
+* Arantza Semprun (Ezker Anitza-IU, CCOO, irakasle ohia)
 
 
 
