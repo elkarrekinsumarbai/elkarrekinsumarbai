@@ -89,7 +89,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Rakel Arana Martinez (Irakaslea)
 * Nicolás Martín Corcuera (--)
 * Andoni Berroeta (Ikaslea)
-* Begoña Sanchez Villa (Langile soziala)
+* Begoña Sanchez Villa (Gizarte langilea)
 * Richar Vaquero Moreno (Batzarkidea Elkarrekin Bizkaia, Podemos-eko militantea)
 * María Concepción Rodríguez Pastor	(Podemos)
 * Guillermo Presa	(Podemos Euskadi)
@@ -115,7 +115,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Carlos Asensio Álvarez (Ezker Anitza-IU)
 * David Alday San Cristóbal (Hezitzailea)
 * Leticia Jiménez Loza (Administraria)
-* Ana Belén Peralta Flores (Langile soziala)
+* Ana Belén Peralta Flores (Gizarte langilea)
 
 
 
