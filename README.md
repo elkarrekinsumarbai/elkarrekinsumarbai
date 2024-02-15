@@ -205,6 +205,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 * Damian Rodriguez Velasco (Informatikaria)
 * Raisa Iratxe García Isasa (Berdeak EQUO)
 * Josetxu Tapia Astobiza (Irakasle erretiratua)
+* * Laura Yanguas Aguirre (Jurista eta bosgarren espazio politikoko militantea)
+* Pablo García de Vicuña Peñafiel (CCOO Irakaskuntza)
+* Genma Sánchez Mugarra (Erretiratua)
+* Jesus Herrero Arranz (Ingeniari informatikoa)
 
 
 
