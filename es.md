@@ -346,7 +346,7 @@ Y para eso firmamos y difundimos esta reclamación.
 88. Cris López (Ecofeminista abolicionista)
 89. Daniel Domínguez Henche (Profesor)
 90. Christoph Kleeberger (Equo)
-91. Blanca Martínez Bellido	Psicóloga)
+91. Blanca Martínez Bellido	(Psicóloga)
 94. Jon Mikel Seijo Arrinda (Jubilado)
 95. Begoña Mendia Ibarrola	(Jubilada)
 96. Xabier Sobrino Alonso (Profesor Economía)
