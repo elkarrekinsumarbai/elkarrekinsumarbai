@@ -289,6 +289,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 29. Carlos Pérez (Profesional independientea)
 30. Imanol Martín Prieto (Ezker Anitza, politologoa eta gozotegiko arduraduna)
 31. Alicia Robles Alonso (Podemos)
+32. Irene Espinosa Cid (Erretiratua)
+33. Iñaki Aristondo (Arkitektoa) 
 
 
 
