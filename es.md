@@ -341,7 +341,7 @@ Y para eso firmamos y difundimos esta reclamación.
 82. Asier García Lupiola (Profesor EHU)
 84. Beñat Alonso (Ezker Anitza-IU Sestao)
 85. Ubaldo Ortiz Rodrigo (Ezker Anitza-IU)
-86. 83. Olga Morales Vallejo (--)
+86. Olga Morales Vallejo (--)
 87. Jesus García San José (Sindicalista)
 88. Cris López (Ecofeminista abolicionista)
 89. Daniel Domínguez Henche (Profesor)
