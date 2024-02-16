@@ -343,6 +343,9 @@ Y para eso firmamos y difundimos esta reclamación.
 85. Ubaldo Ortiz Rodrigo (Ezker Anitza-IU)
 86. 83. Olga Morales Vallejo (--)
 87. Jesus García San José (Sindicalista)
+88. Cris López (Ecofeminista abolicionista)
+89. Daniel Domínguez Henche (Profesor)
+90. Christoph Kleeberger (Equo)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
