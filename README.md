@@ -333,6 +333,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 73. Carlos Saez de Lafuente Zabala (OEEB)
 74. Mikel Orrantia (Erretiratua, sare sozialetan aktibo eta askoz gehiago)
 75. José Vicente Cos Villegas	(PCE-EPK, Elkarrekin Podemos, ¶espazioa erakusketa aretoaren artista arduraduna)
+76. Susana Aranburu Sanz (Farmazia)
+77. Gregorio Martin	(Langileen aldekoa)
 
 
 
