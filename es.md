@@ -332,6 +332,8 @@ Y para eso firmamos y difundimos esta reclamación.
 73. Carlos Saez de Lafuente Zabala (OEEB)
 74. Mikel Orrantia (Jubilado, activo en redes sociales y mucho más)
 75. José Vicente Cos Villegas	(PCE-EPK, Elkarrekin Podemos, Artista responsable de la sala de exposiciones ¶espazioa)
+76. Susana Aranburu Sanz (Farmacia)
+77. Gregorio Martin	(a favor de l@s trabajador@s)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
