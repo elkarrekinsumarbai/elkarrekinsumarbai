@@ -313,7 +313,9 @@ Y para eso firmamos y difundimos esta reclamación.
 54. Josu Calabria Gomez	(Operario Metal-aeronautica)
 55. Candi Lorenzo Pérez (Profesora jubilada)
 56. Juan Carlos Hernández García (Maquinista Euskotren)
-57. Begoña Aspuru Soloaga (Educadora Social) 
+57. Begoña Aspuru Soloaga (Educadora Social)
+58. Irkus Larrinaga (Izquierda Unida)
+59. Iñigo Leon Sancho	(Berdeak-EQUO)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
