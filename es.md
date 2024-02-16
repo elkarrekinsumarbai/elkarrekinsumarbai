@@ -320,6 +320,8 @@ Y para eso firmamos y difundimos esta reclamación.
 61. José Ignacio Trasancos Alonso (Simpatizante IU)
 62. Antonio Jiménez Roncero (Profesor jubilado)
 63. Ibai Las Heras Murguia (Profesor)
+64. Olga López Angulo (Ej-Gv)
+65. Kattalin Garmendia Etchenique (--)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
