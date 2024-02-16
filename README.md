@@ -347,6 +347,18 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 88. 88. Cris López (Ekofeminista abolizionista)
 89. Daniel Domínguez Henche (Irakaslea)
 90. Christoph Kleeberger (Equo)
+91. Blanca Martínez Bellido	(Psikologoa)
+94. Jon Mikel Seijo Arrinda (Erretiratua)
+95. Begoña Mendia Ibarrola	(Erretiratua)
+96. Xabier Sobrino Alonso (Ekonomia irakaslea)
+97. Carmen Kortazar Lapeyra (Erretiratua)
+98. Jorge Azcona Garcia	(Gizarte Segurantzako funtzionarioa)
+99. José María Cote López (Erretiratua)
+100. Teresa Cortázar Lapeira (Erretiratua)
+101. Ekaitz Balbas (Besteren konturako langilea)
+102. Angeles Vinagre Barriga (Erretiratua)
+103. Mónica Monteagudo (Berdeak EQUO)
+104. Jerónimo Saiz González (Podemos)
 
 
 
