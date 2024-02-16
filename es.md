@@ -358,6 +358,10 @@ Y para eso firmamos y difundimos esta reclamación.
 102. Angeles Vinagre Barriga (Jubilada)
 103. Mónica Monteagudo (Berdeak EQUO)
 104. Jerónimo Saiz González (Podemos)
+105. M. Dolores Madrid Lopez (Independiente)
+106. Mikel Toral (Activista)
+107. Estibaliz de Miguel Calvo (Socióloga)
+108. Anna Núñez Viso (Porfesora jubilada)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
