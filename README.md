@@ -363,7 +363,26 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 106. Mikel Toral (Aktibista)
 107. Estibaliz de Miguel Calvo (Soziologoa)
 108. Anna Núñez Viso (Irakasle erretiratua)
-
+109. Joseba Martinez (Irakasle erretiratua)
+110. Iragartze Balbas (Dietista)
+111. José María Murillo Roteta (Erretiratua)
+112. Conchi Goitia (Erretiratua)
+113. Javier A. B. (Erretiratua)
+114. Marijo López (CCOO, Ezker Anitza-IU)
+115. Itziar Goikoetxea (Bitarteko funtzionaria)
+116. Edesio Pérez Fernández (Erretiratua)
+117. Antón Murillo Astoreka (Erretiratua)
+118. Cristina Valverde Ibáñez (Erretiratua)
+119. Jose Eugenio Garcia (Teknikaria, CCOOeko delegatua)
+120. Karmele Aldekoa Ibarrondo (Erretiratua)
+121. Alejandro Oleaga Zabala (Irakaslea)
+122. Elvira Aguirrezabal Martín (--)
+123. Mila Fernández Fernández (Irakaslea)
+124. Angel Martinez de Antoñana Ruiz de Azúa (Ezker Anitza-IU)
+125. Marian Holgado (Erretiratua)
+126. Inma Abalia Camino (Erretiratua)
+127. Nekane Aguirre Larrañaga	(Erretiratua)
+128. Josemari del Palacio Alonso (Errepublikar Ateneoko Ateneo kidea)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
