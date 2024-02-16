@@ -342,8 +342,11 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 82. Asier García Lupiola (Profesor EHU)
 84. Beñat Alonso (Ezker Anitza-IU Sestao)
 85. Ubaldo Ortiz Rodrigo (Ezker Anitza-IU)
-86. 83. Olga Morales Vallejo (--)
+86. Olga Morales Vallejo (--)
 87. Jesus García San José (Sindikalista)
+88. 88. Cris López (Ekofeminista abolizionista)
+89. Daniel Domínguez Henche (Irakaslea)
+90. Christoph Kleeberger (Equo)
 
 
 
