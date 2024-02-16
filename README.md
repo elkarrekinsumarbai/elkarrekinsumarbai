@@ -323,6 +323,15 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 63. Ibai Las Heras Murguia (Irakaslea)
 64. Olga López Angulo (Ej-Gv)
 65. Kattalin Garmendia Etchenique (--)
+66. Eloy Marteache Azcoaga (Podemos Mondragon)
+67. Juan Antonio Antolín Iría (PCE/EPK-Ezker Anitza)
+68. Idoye Zabala Errazti (Irakaslea UPV/EHU, erretiratua)
+69. Josu Mesa	(Bizizale)
+70. Jesús Angel Miranda Aretxabala	(Mediku erretiuratua)
+71. Beatriz Gomendio Tello (Abokatua)
+72. Mitxel Urkijo Martínez (Erretiratua)
+73. Carlos Saez de Lafuente Zabala (OEEB)
+74. Mikel Orrantia (Erretiratua, sare sozialetan aktibo eta askoz gehiago)
 
 
 
