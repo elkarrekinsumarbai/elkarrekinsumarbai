@@ -314,7 +314,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 54. Josu Calabria Gomez	(Metal-aeronautika langilea)
 55. Candi Lorenzo Pérez (Irakasle erretiratua)
 56. Juan Carlos Hernández García (Makinista Euskotren)
-57. Begoña Aspuru Soloaga (Giza hezitzailea) 
+57. Begoña Aspuru Soloaga (Giza hezitzailea)
+58. Irkus Larrinaga (Izquierda Unida)
+59. Iñigo Leon Sancho	(Berdeak-EQUO) 
 
 
 
