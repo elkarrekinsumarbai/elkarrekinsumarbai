@@ -321,6 +321,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 61. José Ignacio Trasancos Alonso (IU jarraitzailea)
 62. Antonio Jiménez Roncero (Irakasle erretiratua)
 63. Ibai Las Heras Murguia (Irakaslea)
+64. Olga López Angulo (Ej-Gv)
+65. Kattalin Garmendia Etchenique (--)
 
 
 
