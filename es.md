@@ -288,6 +288,9 @@ Y para eso firmamos y difundimos esta reclamación.
 29. Carlos Pérez (Profesional independiente)
 30. Imanol Martín Prieto (Ezker Anitza, politólogo y encargado de una pastelería)
 31. Alicia Robles Alonso (Inscrita Podemos)
+32. Irene Espinosa Cid (Jubilada)
+33. Iñaki Aristondo (Arquitecto) 
+
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
