@@ -255,7 +255,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 1. Alfonso Fernández (Erretiratua)
 1. Juantxo Domínguez (Sumar eta Podemos Euskadiko kidea)
 1. Juan Luis Lugarezaresti Goikoetxea (Erretiratua)
-1. Jose Pérez Bilbao (Por libre)
+1. Jose Pérez Bilbao (Libretik)
 1. Estibaliz Urkijo Azkarate (Gizarte langilea)
 1. Tomás Armán García (Informatikaria)
 1. Arantza Semprun (Ezker Anitza-IU, CCOO, irakasle ohia)
