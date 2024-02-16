@@ -316,9 +316,10 @@ Y para eso firmamos y difundimos esta reclamación.
 57. Begoña Aspuru Soloaga (Educadora Social)
 58. Irkus Larrinaga (Izquierda Unida)
 59. Iñigo Leon Sancho	(Berdeak-EQUO)
-60. José Ignacio trasancos Alonso (Simpatizante IU)
-61. Antonio Jiménez Roncero (Profesor jubilado)
-62. Ibai Las Heras Murguia (Profesor)
+60. Juan Carlos Melero Ibáñez (Psicólogo) 
+61. José Ignacio trasancos Alonso (Simpatizante IU)
+62. Antonio Jiménez Roncero (Profesor jubilado)
+63. Ibai Las Heras Murguia (Profesor)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
