@@ -331,6 +331,7 @@ Y para eso firmamos y difundimos esta reclamación.
 72. Mitxel Urkijo Martínez (Jubilado)
 73. Carlos Saez de Lafuente Zabala (OEEB)
 74. Mikel Orrantia (Jubilado, activo en redes sociales y mucho más)
+75. José Vicente Cos Villegas	(PCE-EPK, Elkarrekin Podemos, Artista responsable de la sala de exposiciones ¶espazioa)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
