@@ -316,7 +316,11 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 56. Juan Carlos Hernández García (Makinista Euskotren)
 57. Begoña Aspuru Soloaga (Giza hezitzailea)
 58. Irkus Larrinaga (Izquierda Unida)
-59. Iñigo Leon Sancho	(Berdeak-EQUO) 
+59. Iñigo Leon Sancho	(Berdeak-EQUO)
+60. Juan Carlos Melero Ibáñez (Psikologoa) 
+61. José Ignacio Trasancos Alonso (IU jarraitzailea)
+62. Antonio Jiménez Roncero (Irakasle erretiratua)
+63. Ibai Las Heras Murguia (Irakaslea)
 
 
 
