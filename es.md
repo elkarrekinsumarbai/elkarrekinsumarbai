@@ -337,6 +337,12 @@ Y para eso firmamos y difundimos esta reclamación.
 78. Andoni Mendiaratx Jimenez (Pensionista)
 79. Pedro Valdés Larrañaga (Jubilado)
 80. Gonzalo Arranz Ayala (Periodista)
+81. Jose Luis Salió Casquero (Jubilado)
+82. Asier García Lupiola (Profesor EHU)
+84. Beñat Alonso (Ezker Anitza-IU Sestao)
+85. Ubaldo Ortiz Rodrigo (Ezker Anitza-IU)
+86. 83. Olga Morales Vallejo (--)
+87. Jesus García San José (Sindicalista)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
