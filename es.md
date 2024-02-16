@@ -307,7 +307,13 @@ Y para eso firmamos y difundimos esta reclamación.
 48. Julia Monge Sarabia	(Feminista)
 49. Virginia García (Técnica de Podemos)
 50. Roberto Herbosa López	(Jubilado)
-51. José Luis Lopez Rivas (Solidaridad Pueblo Saharaui) 
+51. José Luis Lopez Rivas (Solidaridad Pueblo Saharaui)
+52. Maria José Garcia	(Jubilada)
+53. Mikel Andrés Uriarte (Empleado)
+54. Josu Calabria Gomez	(Operario Metal-aeronautica)
+55. Candi Lorenzo Pérez (Profesora jubilada)
+56. Juan Carlos Hernández García (Maquinista Euskotren)
+57. Begoña Aspuru Soloaga (Educadora Social) 
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
