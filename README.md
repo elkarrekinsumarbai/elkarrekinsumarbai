@@ -359,6 +359,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 102. Angeles Vinagre Barriga (Erretiratua)
 103. Mónica Monteagudo (Berdeak EQUO)
 104. Jerónimo Saiz González (Podemos)
+105. M. Dolores Madrid Lopez (Independientea)
+106. Mikel Toral (Aktibista)
+107. Estibaliz de Miguel Calvo (Soziologoa)
+108. Anna Núñez Viso (Irakasle erretiratua)
 
 
 
