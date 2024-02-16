@@ -357,6 +357,7 @@ Y para eso firmamos y difundimos esta reclamación.
 101. Ekaitz Balbas (Trabajador por cuenta ajena)
 102. Angeles Vinagre Barriga (Jubilada)
 103. Mónica Monteagudo (Berdeak EQUO)
+104. Jerónimo Saiz González (Podemos)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
