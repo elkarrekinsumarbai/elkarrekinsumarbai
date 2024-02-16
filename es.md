@@ -322,6 +322,15 @@ Y para eso firmamos y difundimos esta reclamación.
 63. Ibai Las Heras Murguia (Profesor)
 64. Olga López Angulo (Ej-Gv)
 65. Kattalin Garmendia Etchenique (--)
+66. Eloy Marteache Azcoaga (Podemos Mondragon)
+67. Juan Antonio Antolín Iría (PCE/EPK-Ezker Anitza)
+68. Idoye Zabala Errazti (Profesora agregada UPV/EHU, jubilada)
+69. Josu Mesa	(Bizizale)
+70. Jesús Angel Miranda Aretxabala	(Médico jubilado)
+71. Beatriz Gomendio Tello (Abogada)
+72. Mitxel Urkijo Martínez (Jubilado)
+73. Carlos Saez de Lafuente Zabala (OEEB)
+74. Mikel Orrantia (Jubilado, activo en redes sociales y mucho más)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
