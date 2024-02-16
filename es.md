@@ -346,6 +346,17 @@ Y para eso firmamos y difundimos esta reclamación.
 88. Cris López (Ecofeminista abolicionista)
 89. Daniel Domínguez Henche (Profesor)
 90. Christoph Kleeberger (Equo)
+91. Blanca Martínez Bellido	Psicóloga)
+94. Jon Mikel Seijo Arrinda (Jubilado)
+95. Begoña Mendia Ibarrola	(Jubilada)
+96. Xabier Sobrino Alonso (Profesor Economía)
+97. Carmen Kortazar Lapeyra (Jubilada)
+98. Jorge Azcona Garcia	(Funcionario Seguridad Social)
+99. José María Cote López (Jubilado)
+100. Teresa Cortázar Lapeira (Jubilada)
+101. Ekaitz Balbas (Trabajador por cuenta ajena)
+102. Angeles Vinagre Barriga (Jubilada)
+103. Mónica Monteagudo (Berdeak EQUO)
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
