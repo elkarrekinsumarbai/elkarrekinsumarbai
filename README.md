@@ -411,7 +411,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 154. Txema Urkijo (--)
 155. Imanol Arretxe (Erretiratua/CCOO)
 156. Tucho Salgado Tejada (Hiritarra)
-	
+157. Javier de la Herrán Gascón (Langilea) 	
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
