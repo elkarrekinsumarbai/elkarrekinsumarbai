@@ -392,7 +392,7 @@ Y para eso firmamos y difundimos esta reclamación.
 136. Kepa Cubero (Jubilado)
 137. Esperanza Lara	(Ciudadana comprometida)
 138. Josune Bujan Garai (Enfermera)
-139. Elena Zudaire (Porfesora/Periodista)
+139. Elena Zudaire (Profesora / Periodista)
 140. Ane Sufrate Abasolo (Médico de familia, activista en movimientos sociales)
 141. Marta jimenez (--) 
 	
