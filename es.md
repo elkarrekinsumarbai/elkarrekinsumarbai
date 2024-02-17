@@ -402,6 +402,8 @@ Y para eso firmamos y difundimos esta reclamación.
 146. Maite García (Jubilada)
 147. David del Rey (Consultor-Economista)
 148. Toño Maeso Martín (Ezker Anitza-IU)
+149. Luisa Aragon del Valle (Sanitaria)
+150. Amaia Asla Eguialde (Profesora jubilada)
 	
 
 
