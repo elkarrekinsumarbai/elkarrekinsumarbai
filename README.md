@@ -393,7 +393,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 136. Kepa Cubero (Erretiratua)
 137. Esperanza Lara	(Hiritar konprometitua)
 138. Josune Bujan Garai (Erizaina)
-139. Elena Zudaire (Irakasle/kazetari)
+139. Elena Zudaire (Irakasle / kazetari)
 140. Ane Sufrate Abasolo (Familia mediku, aktibista mugimendu sozialetan)
 141. Marta jimenez (--) 
 	
