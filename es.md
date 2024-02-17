@@ -383,7 +383,7 @@ Y para eso firmamos y difundimos esta reclamación.
 127. Nekane Aguirre Larrañaga	(Jubilada)
 128. Josemari del Palacio Alonso (Miembro de Ateneo Republicano)
 129. Luis María Torres (Activista)
-130. Raquel Valcuende Diez (Estudiante upv-ehu)
+130. Raquel Valcuende Diez (Estudiante upv/ehu)
 131. Luis Lobo Urrutia (Técnico ambiental)
 132. Jose Manuel Gutierrez Bastida (Maestro)
 133. Teresa Mera Aviñoa (Jubilada)
