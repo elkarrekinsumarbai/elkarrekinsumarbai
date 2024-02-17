@@ -395,7 +395,13 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 138. Josune Bujan Garai (Erizaina)
 139. Elena Zudaire (Irakasle / kazetari)
 140. Ane Sufrate Abasolo (Familia mediku, aktibista mugimendu sozialetan)
-141. Marta Jimenez (--) 
+141. Marta Jimenez (--)
+142. Luisa Loroño (Irakaslea)
+143. Luci Vinagre (Pentsioduna)
+144. Manu Ahedo Santisteban (Soziologoa)
+145. Anais González (IU Sestao)
+146. Maite García (Erretiratua)
+147. David del Rey (Kontsultorea-Ekonomilaria)
 	
 
 
