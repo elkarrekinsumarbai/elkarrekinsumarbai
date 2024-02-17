@@ -409,6 +409,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 152. Maravi Dafauce Pozo (Erretiratua)
 153. Alberto Juaristi Arrizabalaga (Erretiratua)
 154. Txema Urkijo (--)
+155. Imanol Arretxe (Erretiratua/CCOO)
+156. Tucho Salgado Tejada (Hiritarra)
 	
 
 
