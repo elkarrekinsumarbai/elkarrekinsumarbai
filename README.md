@@ -403,6 +403,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 146. Maite García (Erretiratua)
 147. David del Rey (Kontsultorea-Ekonomilaria)
 148. Toño Maeso Martín (Ezker Anitza-IU)
+149. Luisa Aragon del Valle (Osasun-langile)
+150. Amaia Asla Eguialde (Irakasle erretiratua)
 	
 
 
