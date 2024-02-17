@@ -393,7 +393,7 @@ Y para eso firmamos y difundimos esta reclamación.
 137. Esperanza Lara	(Ciudadana comprometida)
 138. Josune Bujan Garai (Enfermera)
 139. Elena Zudaire (Profesora / Periodista)
-140. Ane Sufrate Abasolo (Médico de familia, activista en movimientos sociales)
+140. Ane Sufrate Abasolo (Médica de familia, activista en movimientos sociales)
 141. Marta Jimenez (--)
 142. Luisa Loroño (Profesora)
 143. Luci Vinagre (Pensionista)
