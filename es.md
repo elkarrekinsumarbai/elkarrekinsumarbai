@@ -401,6 +401,7 @@ Y para eso firmamos y difundimos esta reclamación.
 145. Anais González (IU Sestao)
 146. Maite García (Jubilada)
 147. David del Rey (Consultor-Economista)
+148. Toño Maeso Martín (Ezker Anitza-IU)
 	
 
 
