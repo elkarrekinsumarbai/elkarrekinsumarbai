@@ -402,6 +402,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 145. Anais González (IU Sestao)
 146. Maite García (Erretiratua)
 147. David del Rey (Kontsultorea-Ekonomilaria)
+148. Toño Maeso Martín (Ezker Anitza-IU)
 	
 
 
