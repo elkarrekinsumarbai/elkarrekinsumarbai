@@ -413,6 +413,9 @@ Y para eso firmamos y difundimos esta reclamación.
 157. Javier de la Herrán Gascón (Trabajador)
 158. Josune Lasa (cine)
 159. Pablo Garaizar Sagarminaga (Profesor)
+160. Julio Guerrero Madrid (Jubilado) 
+161. Garikoitz Arana (Bibliotecario)
+162. Silvia Pardes Armas (Técnica de Inmigración)
 	
 
 
