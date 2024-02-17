@@ -395,7 +395,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 138. Josune Bujan Garai (Erizaina)
 139. Elena Zudaire (Irakasle / kazetari)
 140. Ane Sufrate Abasolo (Familia mediku, aktibista mugimendu sozialetan)
-141. Marta jimenez (--) 
+141. Marta Jimenez (--) 
 	
 
 
