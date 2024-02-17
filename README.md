@@ -382,7 +382,21 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 125. Marian Holgado (Erretiratua)
 126. Inma Abalia Camino (Erretiratua)
 127. Nekane Aguirre Larrañaga	(Erretiratua)
-128. Josemari del Palacio Alonso (Errepublikar Ateneoko Ateneo kidea)
+128. Josemari del Palacio Alonso (Errepublikar Ateneoko kidea)
+129. Luis María Torres (Aktibista)
+130. Raquel Valcuende Diez (upv-ehu-ko ikaslea)
+131. Luis Lobo Urrutia (Ingurumen teknikaria)
+132. Jose Manuel Gutierrez Bastida (Irakaslea)
+133. Teresa Mera Aviñoa	(Erretiratua)
+134. Lorena Taboada Torres (Langilea)
+135. José Antonio Aguirreburualde Mugica (Erretiratua)
+136. Kepa Cubero (Erretiratua)
+137. Esperanza Lara	(Hiritar konprometitua)
+138. Josune Bujan Garai (Erizaina)
+139. Elena Zudaire (Irakasle/kazetari)
+140. Ane Sufrate Abasolo (Familia mediku, aktibista mugimendu sozialetan)
+141. Marta jimenez (--) 
+	
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
