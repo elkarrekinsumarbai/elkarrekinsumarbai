@@ -394,7 +394,7 @@ Y para eso firmamos y difundimos esta reclamación.
 138. Josune Bujan Garai (Enfermera)
 139. Elena Zudaire (Profesora / Periodista)
 140. Ane Sufrate Abasolo (Médico de familia, activista en movimientos sociales)
-141. Marta jimenez (--) 
+141. Marta Jimenez (--) 
 	
 
 
