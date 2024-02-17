@@ -394,7 +394,13 @@ Y para eso firmamos y difundimos esta reclamación.
 138. Josune Bujan Garai (Enfermera)
 139. Elena Zudaire (Profesora / Periodista)
 140. Ane Sufrate Abasolo (Médico de familia, activista en movimientos sociales)
-141. Marta Jimenez (--) 
+141. Marta Jimenez (--)
+142. Luisa Loroño (Profesora)
+143. Luci Vinagre (Pensionista)
+144. Manu Ahedo Santisteban (Sociólogo)
+145. Anais González (IU Sestao)
+146. Maite García (Jubilada)
+147. David del Rey (Consultor-Economista)
 	
 
 
