@@ -188,7 +188,7 @@ Y para eso firmamos y difundimos esta reclamación.
 1. Amelia Escolano Bernabe (TCAE)
 1. Miguel Mata Gonzalez (Ex responsable territorial de CC.OO. en Bizkaia)
 1. Mikel Barba del Horno (Profesor)
-1. Amparo iriarte Campo (--)
+1. Amparo Iriarte Campo (--)
 1. Miren Llona (Feminista)
 1. Rosa María Castro Martinez (Técnico)
 1. Bingen Villate Ezquerra	(AILEDI comunidad cristiana)
