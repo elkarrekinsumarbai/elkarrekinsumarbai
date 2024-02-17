@@ -404,6 +404,10 @@ Y para eso firmamos y difundimos esta reclamación.
 148. Toño Maeso Martín (Ezker Anitza-IU)
 149. Luisa Aragon del Valle (Sanitaria)
 150. Amaia Asla Eguialde (Profesora jubilada)
+151. Agustín Aguirre (Jubilado)
+152. Maravi Dafauce Pozo (Jubilada)
+153. Alberto Juaristi Arrizabalaga (Jubilado)
+154. Txema Urkijo (--)
 	
 
 
