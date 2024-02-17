@@ -410,6 +410,7 @@ Y para eso firmamos y difundimos esta reclamación.
 154. Txema Urkijo (--)
 155. Imanol Arretxe (Jubilado/CCOO)
 156. Tucho Salgado Tejada (Ciudadano)
+157. Javier de la Herrán Gascón (Trabajador) 
 	
 
 
