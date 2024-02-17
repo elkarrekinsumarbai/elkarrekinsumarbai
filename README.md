@@ -189,7 +189,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 1. Amelia Escolano Bernabe (TCAE)
 1. Miguel Mata Gonzalez (Bizkaiko CC.OO. arduradun ohia)
 1. Mikel Barba del Horno (Irakaslea)
-1. Amparo iriarte Campo (--)
+1. Amparo Iriarte Campo (--)
 1. Miren Llona (Feminista)
 1. Rosa María Castro Martinez (Teknikaria)
 1. Bingen Villate Ezquerra	(AILEDI Kristau Komunitatea)
