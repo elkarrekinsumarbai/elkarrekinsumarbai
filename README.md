@@ -384,7 +384,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 127. Nekane Aguirre Larrañaga	(Erretiratua)
 128. Josemari del Palacio Alonso (Errepublikar Ateneoko kidea)
 129. Luis María Torres (Aktibista)
-130. Raquel Valcuende Diez (upv-ehu-ko ikaslea)
+130. Raquel Valcuende Diez (upv/ehu-ko ikaslea)
 131. Luis Lobo Urrutia (Ingurumen teknikaria)
 132. Jose Manuel Gutierrez Bastida (Irakaslea)
 133. Teresa Mera Aviñoa	(Erretiratua)
