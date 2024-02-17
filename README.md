@@ -414,6 +414,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 157. Javier de la Herrán Gascón (Langilea)
 158. Josune Lasa (zinea)
 159. Pablo Garaizar Sagarminaga (Irakaslea)
+161. Julio Guerrero Madrid (Erretiratua)
+162. Garikoitz Arana (Liburuzaina)
+163. Silvia Pardes Armas (Inmigrazio teknikaria)
+
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
