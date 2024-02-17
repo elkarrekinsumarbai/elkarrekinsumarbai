@@ -405,6 +405,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 148. Toño Maeso Martín (Ezker Anitza-IU)
 149. Luisa Aragon del Valle (Osasun-langile)
 150. Amaia Asla Eguialde (Irakasle erretiratua)
+151. Agustín Aguirre (Erretiratua)
+152. Maravi Dafauce Pozo (Erretiratua)
+153. Alberto Juaristi Arrizabalaga (Erretiratua)
+154. Txema Urkijo (--)
 	
 
 
