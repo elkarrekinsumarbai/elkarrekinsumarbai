@@ -365,7 +365,7 @@ Y para eso firmamos y difundimos esta reclamación.
 109. Joseba Martinez (Profesor jubilado)
 110. Iragartze Balbas (Dietista)
 111. José María Murillo Roteta (Jubilado)
-112. Conchi Goitia (Jubilado)
+112. Conchi Goitia (Jubilada)
 113. Javier A. B. (Jubilado)
 114. Marijo López (CCOO, Ezker Anitza-IU)
 115. Itziar Goikoetxea (Funcionaria interina)
@@ -382,6 +382,20 @@ Y para eso firmamos y difundimos esta reclamación.
 126. Inma Abalia Camino (Jubilada)
 127. Nekane Aguirre Larrañaga	(Jubilada)
 128. Josemari del Palacio Alonso (Miembro de Ateneo Republicano)
+129. Luis María Torres (Activista)
+130. Raquel Valcuende Diez (Estudiante upv-ehu)
+131. Luis Lobo Urrutia (Técnico ambiental)
+132. Jose Manuel Gutierrez Bastida (Maestro)
+133. Teresa Mera Aviñoa (Jubilada)
+134. Lorena Taboada Torres (Trabajadora)
+135. José Antonio Aguirreburualde Mugica (Jubilado)
+136. Kepa Cubero (Jubilado)
+137. Esperanza Lara	(Ciudadana comprometida)
+138. Josune Bujan Garai (Enfermera)
+139. Elena Zudaire (Porfesora/Periodista)
+140. Ane Sufrate Abasolo (Médico de familia, activista en movimientos sociales)
+141. Marta jimenez (--) 
+	
 
 
 <meta property="og:title" content="elkarrekinsumarbai">
