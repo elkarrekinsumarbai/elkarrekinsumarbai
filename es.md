@@ -417,6 +417,7 @@ Y para eso firmamos y difundimos esta reclamación.
 161. Garikoitz Arana (Bibliotecario)
 162. Silvia Pardes Armas (Técnica de Inmigración)
 163. Juanjo Quintela Bereziartua (Psicólogo infantil, jubilado)
+164. Izaskun Álvarez Arana (Optometrista)
 	
 
 
