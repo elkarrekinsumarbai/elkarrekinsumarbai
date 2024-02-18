@@ -419,7 +419,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 163. Silvia Pardes Armas (Inmigrazio teknikaria)
 164. Juanjo Quintela Bereziartua (Haur Psikologoa, erretiratua)
 165. Izaskun Álvarez Arana (Optometrista)
-166. Yolanda Yabar Fernandez (Auxiliar de Enferemería Osakidetza)
+166. Yolanda Yabar Fernandez (Erizain laguntzailea Osakidetza)
 166. Carmen Mendigutxia López (Jubilatua)
 167. Iñigo Lpz de Heredia (--)
 
