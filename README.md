@@ -429,6 +429,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 172. Ainhoa Lizarraga Hernandez (Gizarte langilea)
 173. Jon Ortiz Abalia (Datu analista)
 174. Garikoitz Azkona Mendoza	(Irakaslea)
+175. Maria Cristina Llama Exposito (Irakaslea)
 
 
 
