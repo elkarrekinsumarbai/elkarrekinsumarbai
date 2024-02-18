@@ -418,7 +418,7 @@ Y para eso firmamos y difundimos esta reclamación.
 162. Silvia Pardes Armas (Técnica de Inmigración)
 163. Juanjo Quintela Bereziartua (Psicólogo infantil, jubilado)
 164. Izaskun Álvarez Arana (Optometrista)
-165. Yolanda Yabar Fernandez (Auxiliar de Enferemería Osakidetza)
+165. Yolanda Yabar Fernandez (Auxiliar de Enfermería Osakidetza)
 166. Carmen Mendigutxia López (Jubilatua)
 167. Iñigo Lpz de Heredia (--)
 	
