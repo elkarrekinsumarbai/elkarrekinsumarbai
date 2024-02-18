@@ -425,6 +425,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 168. Elisa Sagarminaga Zarandona (Irakasle  jubilatua)
 169. Gloria Abalia Camino (Pensionista)
 170. Jorge Pérez Calvo (Profesor)
+171. Alberto Burgos Angulo (Hiritarra)
+172. Ainhoa Lizarraga Hernandez (Gizarte langilea)
+173. Jon Ortiz Abalia (Datu analista)
+174. Garikoitz Azkona Mendoza	(Irakaslea)
 
 
 
