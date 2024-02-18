@@ -424,6 +424,10 @@ Y para eso firmamos y difundimos esta reclamación.
 168. Elisa Sagarminaga Zarandona (Profesora jubilada)
 169. Gloria Abalia Camino (Pensionista)
 170. Jorge Pérez Calvo (Profesor)
+171. Alberto Burgos Angulo (Ciudadano)
+172. Ainhoa Lizarraga Hernandez	(Trabajadora social)
+173. Jon Ortiz Abalia (Analista Datos)
+174. Garikoitz Azkona Mendoza (Profesor)
 	
 
 
