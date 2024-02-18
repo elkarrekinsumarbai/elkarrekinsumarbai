@@ -12,6 +12,18 @@ Intentemos no dividirnos :)
 
 No nos dejéis huérfanos!!
 
+Lortuko dogu
+
+Frente Amplio, por separado no nos representan.
+
+Absolutamente necesaria la iniciativa 
+
+Sino hay unión la izquierda federalista desaparece. Urge acudir juntas a las elecciones. Tenemos una oportunidad para cambiar el gobierno y hacer política progresista para mejorar la vida de las personas.
+
+Por una izquierda fuerte y unida 
+
+
+
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
 h1:nth-child(1) {
