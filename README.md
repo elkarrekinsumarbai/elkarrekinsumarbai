@@ -439,7 +439,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 183. Elisa Arguijo Martinez de Rituerto (Psikologoa, Psikoterapeuta psikoanalitikoa)
 184. Lucinio Melgar Martin (Jubilatua)
 185. Isabel Aguirre Echeverría (Jubilatua)
-186. Elena Esteban (CCOO Euskadi) 
+186. Elena Esteban (CCOO Euskadi)
+187. Monika Valle (Irakasle)
+188. Mikel Rodríguez (Elektrizista industriala, mikroinformatika-sistemetako teknikaria, Berdeak EQUO)
+189. Rosario Bahillo Moran (Irakaslea)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
