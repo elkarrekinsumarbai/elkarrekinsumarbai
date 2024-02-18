@@ -83,6 +83,32 @@ Si no es posible ir juntas en una lista, apaga y vamonos
 
 Unios
 
+Viva la unidad, de la diversidad
+
+Ea lortzen dugun
+
+Elkartuta hobeto
+
+Creo que más allá de la búsqueda de acuerdos para la lista electoral, se debe trabajar por el reconocimiento de todos. Me gustaría trabajar en eso y si se ve adecuado me centraría en eso
+
+A favor candidatura unitaria
+
+Podemos no es un partido cualquiera, hemos hecho Historia en nuestro país, pero todavía no hemos entendido, que la única vía de lucha en el Siglo XXI es el diálogo y nuestra mejor arma, poder estar en coalición, para acabar con bipartidismos de Estado, ahora es el momento. Dejemos atrás los egos y caminemos juntos para avanzar, demostrando que SÍ SE PUEDE. 
+
+Quiero que se pongan las pilas los de sumar
+
+Haremos más fuerza. Multiplicaremos. Si no vamos a dividir. Dividendonos vencerán los otros 
+
+Esta absurda división resta credibilidad a los 2 partidos y quita las ganas de votar
+
+Batasunaren alde. BAI.
+
+Unidad de la izda internacionalista vasca
+
+Salud y República 
+
+
+
 
 
 
