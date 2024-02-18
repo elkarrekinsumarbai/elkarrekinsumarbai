@@ -434,6 +434,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 178. Ana López de Eguilaz Santisteban (Pentsioduna)
 179. Ramón Luzuriaga Martínez (Komunikazioa)
 180. Elena Núñez Gonzalez (Informatikaria)
+181. José Ignacio Arocena Terroba (Erretiratua)
+182. Luis Rodríguez Tobías (EA-IU Langilea)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
