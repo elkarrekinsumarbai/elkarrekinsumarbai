@@ -422,6 +422,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 166. Yolanda Yabar Fernandez (Erizain laguntzailea Osakidetza)
 166. Carmen Mendigutxia López (Jubilatua)
 167. Iñigo Lpz de Heredia (--)
+168. Elisa Sagarminaga Zarandona (Irakasle  jubilatua)
+169. Gloria Abalia Camino (Pensionista)
+170. Jorge Pérez Calvo (Profesor)
 
 
 
