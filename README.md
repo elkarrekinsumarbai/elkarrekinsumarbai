@@ -430,6 +430,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 173. Jon Ortiz Abalia (Datu analista)
 174. Garikoitz Azkona Mendoza	(Irakaslea)
 175. Maria Cristina Llama Exposito (Irakaslea)
+176. Blanca Aparicio Pinedo (--)
+178. Ana López de Eguilaz Santisteban (Pentsioduna)
+179. Ramón Luzuriaga Martínez (Komunikazioa)
+180. Elena Núñez Gonzalez (Informatikaria)
 
 
 
