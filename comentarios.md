@@ -105,7 +105,39 @@ Batasunaren alde. BAI.
 
 Unidad de la izda internacionalista vasca
 
-Salud y República 
+Salud y República
+
+Escéptico para con el resultado a corto plazo, pero convencido de la necesidad de la unión confederal de las izquierdas plurales y diversas en colaboración por el metodo democratico y la limitación y rotación de mandatos/representantes. Apoyo la iniciativa.
+
+Juntos sumamos más 
+
+Política es compromisos, y deja los egos aparte para trabajar por un bien comun
+
+Unidos o desastre 
+
+Denok batera / Todos a una 
+
+Si firmo por la unidad plural 
+
+Si quiero la unidad plural
+
+Una izquierda MÁS fuerte y consolidada, si se puede!
+
+Estoy inscrito en Podemos y lo que esta pasando es una puta vergüenza. Por los egos de algunas personas la izquierda se va al carajo. Por mi parte, si no hay unión voy a hacer lo que nunca hubiera imaginado, votaré a Bildu, de esa manera mi voto no irá a la basura que es lo que ocurrirá si lo hago a SUMAR, PODEMOS...
+
+Banatuta izugarrizko porrota!!!!!!
+
+Necesitamos una izquierda unida para hacer un mundo más justo y mejor. No tiene sentido que los personalismos se impongan a las ideas. No hay tantas diferencias ideológicas. Hay que recuperar el espíritu del 15-M.
+
+Porque soy de izquierdas y la formación a la que pertenezco siempre ha apostado por la unidad de la misma. Por ello siempre estaré en ella.
+
+Unidad  con la finalidad de eliminar la corrupción.
+
+Elkarrekin Sumar Bai beti
+
+
+
+
 
 
 
