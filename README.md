@@ -436,6 +436,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 180. Elena Núñez Gonzalez (Informatikaria)
 181. José Ignacio Arocena Terroba (Erretiratua)
 182. Luis Rodríguez Tobías (EA-IU Langilea)
+183. Elisa Arguijo Martinez de Rituerto (Psikologoa, Psikoterapeuta psikoanalitikoa)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
