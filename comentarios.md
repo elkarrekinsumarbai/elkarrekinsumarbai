@@ -34,6 +34,8 @@ La unión hace la fuerza
 
 La unidad es imprescindible
 
+Askotariko batasunaren alde.
+
 Por favor, necesitamos una candidatura unitaria!
 
 No hay argumentos políticos para que vayan separados.
@@ -48,6 +50,28 @@ La solución al conflicto debe ser democrática, en base a la participación pop
 Elkarrekin Sumar BAI! :)
 
 Ezinbestekoa unitaria, bestela porrota!!!
+
+Unidad plural de la izquierda
+
+La unidad es imprescindible, no nos falléis.
+
+Sí se puede!
+
+Ya vale del "yo,mi,me,conmigo". Es necesario.
+
+No hay que intentarlo, hay que HACERLO. 
+
+Evitemos personalismos y prioricemos el fin del PNVrato.
+
+Unidad para mantener un espacio electoral en la izquierda no nacionalista
+
+Todas y todos debemos tener una organización unitarias con cauces democráticos interno de respecto ante la diversidad
+
+Si no vais unidos, mi  voto útil será  EHBildu, a pesar de haber participado en la ley de educación. Es un gran error ir por separados, os señalaré como culpables.
+
+Me parece esencial ir como lista única tanto por aumentar posibilidades de gobernabilidada como por la propia ideología que sea plural
+
+
 
 
 
