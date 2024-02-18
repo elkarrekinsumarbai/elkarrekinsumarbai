@@ -416,6 +416,7 @@ Y para eso firmamos y difundimos esta reclamación.
 160. Julio Guerrero Madrid (Jubilado) 
 161. Garikoitz Arana (Bibliotecario)
 162. Silvia Pardes Armas (Técnica de Inmigración)
+163. Juanjo Quintela Bereziartua (Psicólogo infantil, jubilado)
 	
 
 
