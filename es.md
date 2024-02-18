@@ -438,7 +438,10 @@ Y para eso firmamos y difundimos esta reclamación.
 183. Elisa Arguijo Martinez de Rituerto (Psicóloga, Psicoterapeuta psicoanalítica)
 184. Lucinio Melgar Martin (Jubilado)
 185. Isabel Aguirre Echeverría (Jubilado)
-186. Elena Esteban (CCOO Euskadi) 
+186. Elena Esteban (CCOO Euskadi)
+187. Monika valle (Profesora)
+188. Mikel Rodríguez (Electricista industrial, Técnico en sistemas microinformáticos, Berdeak EQUO)
+189. Rosario Bahillo Moran (Profesora)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
