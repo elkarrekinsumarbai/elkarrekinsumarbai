@@ -419,8 +419,11 @@ Y para eso firmamos y difundimos esta reclamación.
 163. Juanjo Quintela Bereziartua (Psicólogo infantil, jubilado)
 164. Izaskun Álvarez Arana (Optometrista)
 165. Yolanda Yabar Fernandez (Auxiliar de Enfermería Osakidetza)
-166. Carmen Mendigutxia López (Jubilatua)
+166. Carmen Mendigutxia López (Jubilada)
 167. Iñigo Lpz de Heredia (--)
+168. Elisa Sagarminaga Zarandona (Profesora jubilada)
+169. Gloria Abalia Camino (Pensionista)
+170. Jorge Pérez Calvo (Profesor)
 	
 
 
