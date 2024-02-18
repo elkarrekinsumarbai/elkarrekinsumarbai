@@ -429,6 +429,11 @@ Y para eso firmamos y difundimos esta reclamación.
 173. Jon Ortiz Abalia (Analista Datos)
 174. Garikoitz Azkona Mendoza (Profesor)
 175. Maria Cristina Llama Exposito (Profesora)
+177. Blanca Aparicio Pinedo (--)
+178. Ana López de Eguilaz Santisteban (Pensionista)
+179. Ramón Luzuriaga Martínez (Comunicación)
+180. Elena Núñez Gonzalez (Informática)
+
 	
 
 
