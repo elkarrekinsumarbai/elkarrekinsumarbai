@@ -164,4 +164,9 @@ h1:nth-child(1) {
     border-radius: 20px;
 }
 .footer{ display:none}
+
+p {
+  border-bottom: 1px solid #ddd !important;
+  padding-bottom: 0.5em;
+}
 </style>
