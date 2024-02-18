@@ -1,11 +1,11 @@
-**Euskera** | [Castellano](es)
+**Euskera** | [Castellano](es) | <a href="mailto:elkarrekinsumarbai@gmail.com">Kontaktua</a>
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
 # Saia zaitezte berriro! 
 ## Podemos Euskadi, Sumar Mugimendua, Ezker Anitza-IU eta Equo-Berdeak alderdien arteko zerrenda bateratuaren aldeko sinadura bilketa
 
-<img src="elkarrekinsumarbai_01.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="600">
+<img src="elkarrekinsumarbai_02.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="600">
 
 Balio eta programa berdinzaleak, ekologistak, feministak, bakezaleak, federalistak, internazionalistak... partekatzen ditugun euskal herritarrak garen einean, kezkaturik gaude erakunde horiek urteetan partekatu duten esparru politiko komunaren haustura aurreikuspenaren aurrean. Aliantza hori hautsita, ahuldu egiten dira Euskadirako gure proposamen sozial eta ekonomikoak bultzatzeko aukerak.
 
@@ -435,7 +435,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 179. Ramón Luzuriaga Martínez (Komunikazioa)
 180. Elena Núñez Gonzalez (Informatikaria)
 
+<a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
+<a href="comentarios">Jasotako iruzkin sorta</a>
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
