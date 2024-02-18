@@ -1,11 +1,11 @@
-[Euskera](/) | **Castellano**
+[Euskera](/) | **Castellano** | <a href="mailto:elkarrekinsumarbai@gmail.com">Contacto</a>
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
 # ¡Intentadlo otra vez!
 ## Recogida de firmas por una lista unitaria entre Podemos Euskadi, Sumar Mugimendua, Ezker Anitza-IU y Equo-Berdeak
 
-<img src="elkarrekinsumarbai_01.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="600">
+<img src="elkarrekinsumarbai_02.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="600">
 
 Como ciudadanos y ciudadanas vascas que compartimos valores y programas igualitaristas, ecologistas, feministas, pacifistas, federalistas, internacionalistas... asistimos con preocupación a la anunciada fractura del espacio político común que estas organizaciones han venido compartiendo durante años. Con la ruptura de esa alianza se debilitan las posibilidades de impulsar nuestras propuestas sociales y económicas para Euskadi.
 
@@ -434,8 +434,9 @@ Y para eso firmamos y difundimos esta reclamación.
 179. Ramón Luzuriaga Martínez (Comunicación)
 180. Elena Núñez Gonzalez (Informática)
 
-	
+<a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
+<a href="comentarios">Selección de comentarios recibidos</a>
 
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
