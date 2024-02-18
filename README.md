@@ -417,6 +417,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 161. Julio Guerrero Madrid (Erretiratua)
 162. Garikoitz Arana (Liburuzaina)
 163. Silvia Pardes Armas (Inmigrazio teknikaria)
+164. Juanjo Quintela Bereziartua (Haur Psikologoa, erretiratua)
 
 
 
