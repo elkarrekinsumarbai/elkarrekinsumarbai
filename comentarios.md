@@ -4,6 +4,8 @@
 
 <img src="elkarrekinsumarbai_02.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="600">
 
+Batasuna lortu behar dugu, denon artean
+
 Por supuesto que merece la pena unir fuerzas para poder seguir teniendo alguna capacidad de influencia social y política, en definitiva, para poder intentar mejorar la vida de las personas. Por separado es seguro el papel residual. Humildad.
 
 Politikan bihotza beharrezkoa da, baina burua erabiltzea ere ezinbestekoa.
