@@ -257,7 +257,7 @@ Y para eso firmamos y difundimos esta reclamación.
 1. Jose Pérez Bilbao (Por libre)
 1. Estibaliz Urkijo Azkarate (Trabajadora Social)
 1. Tomás Armán García (Informático)
-1. Arantza Semprun (Ezker Anitza-IU, CCOO, irakasle ohia)
+1. Arantza Semprun (Ezker Anitza-IU, CCOO, exprofesora)
 2. Itziar Villanueva Etxeberria (Profesora)
 3. Josefa Martin San frutos (Jubilada)
 4. Javier Losa Vega (--)
