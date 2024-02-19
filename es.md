@@ -461,7 +461,7 @@ Y para eso firmamos y difundimos esta reclamación.
 208. Juan Pallares Gallardo (Profesora jubilada)
 209. Isabel Martínez Ibáñez (Administrativa)
 210. Ana Rosa Uranga Saiz	(Profesora Jubilada)
-211. Monika Ikaza sobera (CCOO/IU)
+211. Monika Ikaza Sobera (CCOO/IU)
 212. Jose Vicente López Alonso (Promotor musical)
 213. Arantxa Arregi Juregi (Jubilada)
 214. Fidel Andrés Ortega (Abogado)
