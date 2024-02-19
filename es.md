@@ -453,6 +453,10 @@ Y para eso firmamos y difundimos esta reclamación.
 199. Sergio Elvira (Analista Programador)
 200. Encarna Suarez Paniagua (Administrativa)
 201. Yon Arbonies Rodríguez (Operario)
+202. Josune Torres  Enjuto (Médica)
+203. Amaya Lourdes Ochoa Gómez (Jubilada)
+204. Alberto Bezunartea	(Concejal de Berdeak + independientes Legazpi)
+
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
