@@ -407,7 +407,6 @@ Y para eso firmamos y difundimos esta reclamación.
 151. Agustín Aguirre (Jubilado)
 152. Maravi Dafauce Pozo (Jubilada)
 153. Alberto Juaristi Arrizabalaga (Jubilado)
-154. Txema Urkijo (--)
 155. Imanol Arretxe (Jubilado/CCOO)
 156. Tucho Salgado Tejada (Ciudadano)
 157. Javier de la Herrán Gascón (Trabajador)
