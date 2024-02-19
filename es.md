@@ -448,7 +448,7 @@ Y para eso firmamos y difundimos esta reclamación.
 193. Rubén Pérez Calvo (Profesor)
 194. Raquel Blanco (Podemos)
 195. Ana Isabel Saiz Quintano (Ezker Anitza-IU Sestao) 
-196. Álvaro Alonso (Informática)
+196. Álvaro Alonso (Informático)
 197. Cristina Manero (Profesora)
 198. Isabel Velasco Abasolo	(Portubizi)
 
