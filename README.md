@@ -458,6 +458,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 203. Amaya Lourdes Ochoa Gómez (Jubilatua)
 204. Alberto Bezunartea (Berdeak + independienteak zinegotzia Legazpin)
 205. Antonio Rubio (Ikertzailea)
+206. Ignacio Funes (Pentsioduna)
 
 
 
