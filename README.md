@@ -452,6 +452,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 196. Álvaro Alonso (Informatikaria)
 197. Cristina Manero (Irakaslea)
 198. Isabel Velasco Abasolo	(Portubizi)
+199. Sergio Elvira (Analista Programatzailea)
+200. Encarna Suarez Paniagua (Administraria)
+201. Yon Arbonies Rodríguez (Langilea)
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
