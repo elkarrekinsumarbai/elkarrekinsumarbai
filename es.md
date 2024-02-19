@@ -442,6 +442,11 @@ Y para eso firmamos y difundimos esta reclamación.
 187. Monika valle (Profesora)
 188. Mikel Rodríguez (Electricista industrial, Técnico en sistemas microinformáticos, Berdeak EQUO)
 189. Rosario Bahillo Moran (Profesora)
+190. Yulia Serkezyuk (--)
+191. Jon Merodio (Docente)
+192. Miguel Ángel Navarro (Profesor Universidad de Deusto, Responsable de DDHH en Podemos Euskadi)
+193. Rubén Pérez Calvo (Profesor)
+194. Raquel Blanco (Podemos)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
