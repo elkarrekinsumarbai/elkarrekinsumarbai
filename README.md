@@ -448,6 +448,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 192. Miguel Ángel Navarro (Deusto Unibertsitateko Irakaslea, Podemos Euskadiko Giza eskubideen arduraduna)
 193. Rubén Pérez Calvo (Irakaslea)
 194. Raquel Blanco (Podemos)
+195. Ana Isabel Saiz Quintano (Ezker Anitza-IU Sestao) 
+196. Álvaro Alonso (Informatikaria)
+197. Cristina Manero (Irakaslea) 
+
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
