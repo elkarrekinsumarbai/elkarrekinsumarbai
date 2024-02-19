@@ -458,6 +458,20 @@ Y para eso firmamos y difundimos esta reclamación.
 204. Alberto Bezunartea	(Concejal de Berdeak + independientes Legazpi)
 205. Antonio Rubio (Investigador)
 206. Ignacio Funes (Pensionista)
+208. Juan Pallares Gallardo (Profesora jubilada)
+209. Isabel Martínez Ibáñez (Administrativa)
+210. Ana Rosa Uranga Saiz	(Profesora Jubilada)
+211. Monika Ikaza sobera (CCOO/IU)
+212. Jose Vicente López Alonso (Promotor musical)
+213. Arantxa Arregi Juregi (Jubilada)
+214. Fidel Andrés Ortega (Abogado)
+215. Aitor Sánchez (Investigador)
+216. Begoña Salcedo Abizanda (feminista)
+217. Vicente Ruiz Fernández (PCE/EPK)
+218. Salvador González Santiago (Pensionista, Ezker Anitza-IU)
+219. Angela Garcia Gomez (jubilada)
+220. Ioana Etxezarreta Odriozola (Profesora)
+221. Alba Nahikari Careaga Blanco (Autónoma)
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
