@@ -464,6 +464,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 209. Ana Rosa Uranga Saiz (Irakaslea erretiratua)
 210. Monika Ikaza sobera (CCOO-IU)
 211. Jose Vicente López Alonso (Musika sustatzailea)
+212. Arantxa Arregi Juregi (Erretiratua)
+213. Fidel Andrés Ortega (Abokatua)
+214. Aitor Sánchez (Ikertzailea)
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
