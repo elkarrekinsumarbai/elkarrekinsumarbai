@@ -460,13 +460,20 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 205. Antonio Rubio (Ikertzailea)
 206. Ignacio Funes (Pentsioduna)
 207. Juan Pallares Gallardo (Irakaslea erretiratua)
-208. Isabel Martínez Ibáñez  (Administraria)
+208. Isabel Martínez Ibáñez (Administraria)
 209. Ana Rosa Uranga Saiz (Irakaslea erretiratua)
-210. Monika Ikaza sobera (CCOO-IU)
+210. Monika Ikaza Sobera (CCOO-IU)
 211. Jose Vicente López Alonso (Musika sustatzailea)
 212. Arantxa Arregi Juregi (Erretiratua)
 213. Fidel Andrés Ortega (Abokatua)
 214. Aitor Sánchez (Ikertzailea)
+215. Begoña Salcedo Abizanda (Feminista)
+216. Vicente Ruiz Fernández (PCE/EPK)
+217. Salvador González Santiago (Pentsioduna, Ezker Anitza-IU)
+218. Angela Garcia Gomez (Erretiratua)
+219. Ioana Etxezarreta Odriozola (Irakaslea)
+220. Alba Nahikari Careaga Blanco	(Autonomoa)
+	
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
