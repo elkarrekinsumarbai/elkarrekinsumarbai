@@ -439,7 +439,7 @@ Y para eso firmamos y difundimos esta reclamación.
 184. Lucinio Melgar Martin (Jubilado)
 185. Isabel Aguirre Echeverría (Jubilado)
 186. Elena Esteban (CCOO Euskadi)
-187. Monika valle (Profesora)
+187. Monika Valle (Profesora)
 188. Mikel Rodríguez (Electricista industrial, Técnico en sistemas microinformáticos, Berdeak EQUO)
 189. Rosario Bahillo Moran (Profesora)
 190. Yulia Serkezyuk (--)
