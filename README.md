@@ -454,6 +454,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 199. Sergio Elvira (Analista Programatzailea)
 200. Encarna Suarez Paniagua (Administraria)
 201. Yon Arbonies Rodríguez (Langilea)
+202. Josune Torres  Enjuto (Medikua)
+203. Amaya Lourdes Ochoa Gómez (Jubilatua)
+204. Alberto Bezunartea (Berdeak + independienteak zinegotzia Legazpin)
+
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
