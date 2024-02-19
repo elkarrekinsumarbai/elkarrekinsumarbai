@@ -447,7 +447,7 @@ Y para eso firmamos y difundimos esta reclamación.
 192. Miguel Ángel Navarro (Profesor Universidad de Deusto, Responsable de DDHH en Podemos Euskadi)
 193. Rubén Pérez Calvo (Profesor)
 194. Raquel Blanco (Podemos)
-195. 195. Ana Isabel Saiz Quintano (Ezker Anitza-IU Sestao) 
+195. Ana Isabel Saiz Quintano (Ezker Anitza-IU Sestao) 
 196. Álvaro Alonso (Informática)
 197. Cristina Manero (Profesora)
 198. Isabel Velasco Abasolo	(Portubizi)
