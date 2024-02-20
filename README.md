@@ -491,6 +491,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 237. Mikel Larreina Díaz (Irakaslea)
 238. Julen Momoitio (Ezker Anitza IU)
 239. Alberto Lejardi (Aktibista)
+240. Begoña Crego (Artista)
 	
 
 
