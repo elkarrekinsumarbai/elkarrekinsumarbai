@@ -485,6 +485,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 231. Íñigo Aguirre (Berdeak Equo)
 232. Fernando Iglesias Lorenzo (I.U. Erretiratua)
 233. Luis Javier Rodríguez Fuentes (UPV/EHU Irakaslea)
+234. Angela del Barrio Ruiz-Olalde (Jubilatua)
+235. Oscar Grijalba (Empresaria)
+236. Iñaki Temprano Arribas (CCOO)
 	
 
 
