@@ -477,7 +477,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 223. Enrique Riaño Gomez (Irakasle erretiratua)
 224. Maier King Lara (Podemos Donostiako zirkuluko militantea)
 225. Luzia Matxalen Garaizar Sagarminaga (Gizarte langilea)
-226. Ana Mateo González (Independientea)
+226. Pedro María Fernández Sandino (Profesional independientea)
+227. Ana Mateo González (Independientea)
 	
 
 
