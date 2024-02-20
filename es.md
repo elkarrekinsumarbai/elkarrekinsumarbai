@@ -478,6 +478,12 @@ Y para eso firmamos y difundimos esta reclamación.
 225. Luzia Matxalen Garaizar Sagarminaga (Trabajadora social)
 226. Pedro María Fernández Sandino (Profesional independiente)
 227. Ana Mateo González (Independiente)
+228. Edurne Baranda de Miguel (Licenciada en Derecho)
+229. Elia Moreno Martin	(Psicóloga y activista social)
+230. José Damián García-Moreno López (Militante Ezker Anitza IU - PCE-EPK)
+231. Íñigo Aguirre (Berdeak Equo)
+232. Fernando Iglesias Lorenzo (I.U. Jubilado)
+233. Luis Javier Rodríguez Fuentes (Profesor UPV/EHU)
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
