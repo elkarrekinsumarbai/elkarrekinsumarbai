@@ -3,7 +3,7 @@
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
 # Saia zaitezte berriro! 
-## Podemos Euskadi, Sumar Mugimendua, Ezker Anitza-IU eta Equo-Berdeak alderdien arteko zerrenda bateratuaren aldeko sinadura bilketa
+## Podemos Euskadi, Sumar Mugimendua, Ezker Anitza-IU eta Berdeak-Equo alderdien arteko zerrenda bateratuaren aldeko sinadura bilketa
 
 <img src="elkarrekinsumarbai_02.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="600">
 
