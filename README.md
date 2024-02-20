@@ -490,7 +490,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 236. Iñaki Temprano Arribas (CCOO)
 237. Mikel Larreina Díaz (Irakaslea)
 238. Julen Momoitio (Ezker Anitza IU)
-239. Alberto Lejardi (Activista)
+239. Alberto Lejardi (Aktibista)
 	
 
 
