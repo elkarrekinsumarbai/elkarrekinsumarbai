@@ -466,10 +466,10 @@ Y para eso firmamos y difundimos esta reclamación.
 213. Arantxa Arregi Juregi (Jubilada)
 214. Fidel Andrés Ortega (Abogado)
 215. Aitor Sánchez (Investigador)
-216. Begoña Salcedo Abizanda (feminista)
+216. Begoña Salcedo Abizanda (Feminista)
 217. Vicente Ruiz Fernández (PCE/EPK)
 218. Salvador González Santiago (Pensionista, Ezker Anitza-IU)
-219. Angela Garcia Gomez (jubilada)
+219. Angela Garcia Gomez (Jubilada)
 220. Ioana Etxezarreta Odriozola (Profesora)
 221. Alba Nahikari Careaga Blanco (Autónoma)
 
