@@ -479,6 +479,12 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 225. Luzia Matxalen Garaizar Sagarminaga (Gizarte langilea)
 226. Pedro María Fernández Sandino (Profesional independientea)
 227. Ana Mateo González (Independientea)
+228. Edurne Baranda de Miguel (Zuzenbidean lizentziaduna)
+229. Elia Moreno Martin	(Psikologoa eta aktibista soziala)
+230. José Damián García-Moreno López (Militante Ezker Anitza IU - PCE-EPK)
+231. Íñigo Aguirre (Berdeak Equo)
+232. Fernando Iglesias Lorenzo (I.U. Erretiratua)
+233. Luis Javier Rodríguez Fuentes (UPV/EHU Irakaslea)
 	
 
 
