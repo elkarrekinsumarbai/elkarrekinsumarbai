@@ -486,8 +486,11 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 232. Fernando Iglesias Lorenzo (I.U. Erretiratua)
 233. Luis Javier Rodríguez Fuentes (UPV/EHU Irakaslea)
 234. Angela del Barrio Ruiz-Olalde (Jubilatua)
-235. Oscar Grijalba (Empresaria)
+235. Oscar Grijalba (Enpresaria)
 236. Iñaki Temprano Arribas (CCOO)
+237. Mikel Larreina Díaz (Irakaslea)
+238. Julen Momoitio (Ezker Anitza IU)
+239. Alberto Lejardi (Activista)
 	
 
 
