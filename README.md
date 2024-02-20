@@ -492,6 +492,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 238. Julen Momoitio (Ezker Anitza IU)
 239. Alberto Lejardi (Aktibista)
 240. Begoña Crego (Artista)
+241. Ernesto Fernández Otero (UGT / Ezker Anitza-IU)
+242. María Josefa Hernández (Ileapaintzaile)
 	
 
 
