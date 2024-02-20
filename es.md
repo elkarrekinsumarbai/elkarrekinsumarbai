@@ -494,7 +494,13 @@ Y para eso firmamos y difundimos esta reclamación.
 241. Ernesto Fernández Otero (UGT / Ezker Anitza-IU)
 242. María Josefa Hernández (Peluquera)
 243. Pedro Lasa Gallurralde (Equo)
-
+244. Jose Ignacio Sufrate (Jubilado)
+245. Begoña Sagasti Barrio (Feminista)
+246. Eva Bailo (Trabajadora)
+247. Idoia Bilbao Urquiola (Jubilada, simpatizante de izquierdas)
+248. Pedro María Echeverría Vitoria (Técnico de logística)
+249. Nuria Buesa (Ezker Anitza-IU)
+250. Markel Azurmendi Cuenya (Militante Podemos Euskadi)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
