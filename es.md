@@ -3,7 +3,7 @@
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
 # ¡Intentadlo otra vez!
-## Recogida de firmas por una lista unitaria entre Podemos Euskadi, Sumar Mugimendua, Ezker Anitza-IU y Equo-Berdeak
+## Recogida de firmas por una lista unitaria entre Podemos Euskadi, Sumar Mugimendua, Ezker Anitza-IU y Berdeak-Equo
 
 <img src="elkarrekinsumarbai_02.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="600">
 
