@@ -137,9 +137,9 @@ Unidad  con la finalidad de eliminar la corrupción.
 
 Elkarrekin Sumar Bai beti
 
+Sin unidad no vamos a ningún lado, basta ya de personalismos
 
-
-
+Se debe recuperar la ilusión, más allá de personalismos y divergencias egoístas 
 
 
 
