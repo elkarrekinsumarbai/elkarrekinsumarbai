@@ -494,6 +494,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 240. Begoña Crego (Artista)
 241. Ernesto Fernández Otero (UGT / Ezker Anitza-IU)
 242. María Josefa Hernández (Ileapaintzaile)
+243. Pedro Lasa Gallurralde (Equo)
 	
 
 
