@@ -484,6 +484,9 @@ Y para eso firmamos y difundimos esta reclamación.
 231. Íñigo Aguirre (Berdeak Equo)
 232. Fernando Iglesias Lorenzo (I.U. Jubilado)
 233. Luis Javier Rodríguez Fuentes (Profesor UPV/EHU)
+234. Angela del Barrio Ruiz-Olalde (Jubilada)
+235. Oscar Grijalba	(Empresario)
+236. Iñaki Temprano Arribas	(CCOO)
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
