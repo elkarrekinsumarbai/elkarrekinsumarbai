@@ -474,7 +474,7 @@ Y para eso firmamos y difundimos esta reclamación.
 221. Alba Nahikari Careaga Blanco (Autónoma)
 222. Rosa Odriozola Unanue (Jubilada)
 223. Enrique Riaño Gomez (Profesor jubilado)
-224. Maier King Lara	(Militante del Círculo de Donostia)
+224. Maier King Lara	(Militante del Círculo de Podemos Donostia)
 225. Luzia Matxalen Garaizar Sagarminaga (Trabajadora social)
 226. Ana Mateo González (Independiente)
 
