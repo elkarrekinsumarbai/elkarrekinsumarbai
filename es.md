@@ -476,6 +476,7 @@ Y para eso firmamos y difundimos esta reclamación.
 223. Enrique Riaño Gomez (Profesor jubilado)
 224. Maier King Lara	(Militante del Círculo de Donostia)
 225. Luzia Matxalen Garaizar Sagarminaga (Trabajadora social)
+226. Ana Mateo González (Independiente)
 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
