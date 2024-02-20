@@ -473,10 +473,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 218. Angela Garcia Gomez (Erretiratua)
 219. Ioana Etxezarreta Odriozola (Irakaslea)
 220. Alba Nahikari Careaga Blanco (Autonomoa)
-221. Luzia Matxalen Garaizar Sagarminaga (Gizarte langilea)
 222. Rosa Odriozola Unanue (Jubilatua)
 223. Enrique Riaño Gomez (Irakasle erretiratua)
 224. Maier King Lara (Podemos Donostiako zirkuluko militantea)
+225. Luzia Matxalen Garaizar Sagarminaga (Gizarte langilea)
 	
 
 
