@@ -495,13 +495,13 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 241. Ernesto Fernández Otero (UGT / Ezker Anitza-IU)
 242. María Josefa Hernández (Ileapaintzaile)
 243. Pedro Lasa Gallurralde (Equo)
-244. Jose Ignacio Sufrate (Jubilado)
+244. Jose Ignacio Sufrate (Erretiratua)
 245. Begoña Sagasti Barrio (Feminista)
-246. Eva Bailo (Trabajadora)
-247. Idoia Bilbao Urquiola (Jubilada, simpatizante de izquierdas)
-248. Pedro María Echeverría Vitoria (Técnico de logística)
+246. Eva Bailo (Langilea)
+247. Idoia Bilbao Urquiola (Jubilatua, ezkerzale)
+248. Pedro María Echeverría Vitoria (Logistika teknikaria)
 249. Nuria Buesa (Ezker Anitza-IU)
-250. Markel Azurmendi Cuenya (Militante Podemos Euskadi)
+250. Markel Azurmendi Cuenya (Podemos Euskadiko militantea)
 	
 
 
