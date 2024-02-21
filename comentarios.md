@@ -143,6 +143,9 @@ Se debe recuperar la ilusión, más allá de personalismos y divergencias egoís
 
 La división  del progresismo refuerza el "regresismo"...más eCosistema y menos eGosistema.
 
+Esperemos que se consiga
+
+
 
 
 
