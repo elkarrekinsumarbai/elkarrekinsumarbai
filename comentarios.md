@@ -73,7 +73,7 @@ Todas y todos debemos tener una organización unitarias con cauces democráticos
 
 Si no vais unidos, mi  voto útil será  EHBildu, a pesar de haber participado en la ley de educación. Es un gran error ir por separados, os señalaré como culpables.
 
-Me parece esencial ir como lista única tanto por aumentar posibilidades de gobernabilidada como por la propia ideología que sea plural
+Me parece esencial ir como lista única tanto por aumentar posibilidades de gobernabilidad como por la propia ideología que sea plural
 
 Estoy por la unión, separados es como ir a suicidarse. No más personalismos.
 
