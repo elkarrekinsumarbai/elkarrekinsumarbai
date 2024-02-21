@@ -507,6 +507,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 253. Tania Diez Maria (--)
 254. Carlos Araco Martin (Gidaria)
 255. Cristina Torres Vilar (Langilea)
+256. Juan Carlos Álvarez Fernández (--)
+258. Catalina María Solís (Artista)
 	
 
 
