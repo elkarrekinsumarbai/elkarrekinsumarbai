@@ -501,6 +501,10 @@ Y para eso firmamos y difundimos esta reclamación.
 248. Pedro María Echeverría Vitoria (Técnico de logística)
 249. Nuria Buesa (Ezker Anitza-IU)
 250. Markel Azurmendi Cuenya (Militante Podemos Euskadi)
+251. María José Goitia (Independiente)
+252. J. Enrique Antolin Iria (Profesor UPV/EHU)
+253. Tania Diez Maria (--)
+254. Carlos Araco Martin (Conductor) 
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
