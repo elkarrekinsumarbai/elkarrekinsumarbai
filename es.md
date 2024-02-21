@@ -506,6 +506,8 @@ Y para eso firmamos y difundimos esta reclamación.
 253. Tania Diez Maria (--)
 254. Carlos Araco Martin (Conductor)
 255. Cristina Torres Vilar (Trabajadora)
+257. Juan Carlos Álvarez Fernández (--)
+258. Catalina María Solís (Artista)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
