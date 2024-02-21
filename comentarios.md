@@ -22,7 +22,7 @@ Frente Amplio, por separado no nos representan.
 
 Absolutamente necesaria la iniciativa
 
-Sino hay unión la izquierda federalista desaparece. Urge acudir juntas a las elecciones. Tenemos una oportunidad para cambiar el gobierno y hacer política progresista para mejorar la vida de las personas.
+Si no hay unión la izquierda federalista desaparece. Urge acudir juntas a las elecciones. Tenemos una oportunidad para cambiar el gobierno y hacer política progresista para mejorar la vida de las personas.
 
 Por una izquierda fuerte y unida
 
