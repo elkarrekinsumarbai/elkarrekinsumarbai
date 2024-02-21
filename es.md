@@ -504,7 +504,8 @@ Y para eso firmamos y difundimos esta reclamación.
 251. María José Goitia (Independiente)
 252. J. Enrique Antolin Iria (Profesor UPV/EHU)
 253. Tania Diez Maria (--)
-254. Carlos Araco Martin (Conductor) 
+254. Carlos Araco Martin (Conductor)
+255. Cristina Torres Vilar (Trabajadora)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
