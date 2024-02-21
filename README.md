@@ -505,7 +505,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 251. María José Goitia (Independientea)
 252. J. Enrique Antolin Iria (UPV/EHU-ko irakaslea)
 253. Tania Diez Maria (--)
-254. Carlos Araco Martin (Gidaria) 
+254. Carlos Araco Martin (Gidaria)
+255. Cristina Torres Vilar (Langilea)
 	
 
 
