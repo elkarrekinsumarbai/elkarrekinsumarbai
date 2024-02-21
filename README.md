@@ -502,6 +502,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 248. Pedro María Echeverría Vitoria (Logistika teknikaria)
 249. Nuria Buesa (Ezker Anitza-IU)
 250. Markel Azurmendi Cuenya (Podemos Euskadiko militantea)
+251. María José Goitia (Independientea)
+252. J. Enrique Antolin Iria (UPV/EHU-ko irakaslea)
+253. Tania Diez Maria (--)
+254. Carlos Araco Martin (Gidaria) 
 	
 
 
