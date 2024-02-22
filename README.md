@@ -515,7 +515,11 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 262. Jhon Hernández Ríos (GKE Teknikaria)
 263. Leire Martínez Echebarria (Bitarteko funtzionarioa)
 	
+<a href="elkarrekinsumarbai_03.png"><img src="elkarrekinsumarbai_03.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="400"></a>
 
+<a href="elkarrekinsumarbai_asamblada02_01.png"><img src="elkarrekinsumarbai_asamblada02_01.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="400"></a>
+
+<a href="grafico-porcentajes-parlamento-2024-separados-juntos.png"><img src="grafico-porcentajes-parlamento-2024-separados-juntos.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="400"></a>
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
