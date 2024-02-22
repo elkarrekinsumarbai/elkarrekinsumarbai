@@ -509,6 +509,10 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 255. Cristina Torres Vilar (Langilea)
 256. Juan Carlos Álvarez Fernández (--)
 258. Catalina María Solís (Artista)
+259. Joxe Carreras Prieto (Irakaslea)
+260. José Manuel Soto Aranzadi (Erretiratua)
+261. Rafael Bernal Gato	(Berdeak Equo)
+262. Jhon Hernández Ríos (GKE Teknikaria)
 	
 
 
