@@ -508,6 +508,10 @@ Y para eso firmamos y difundimos esta reclamación.
 255. Cristina Torres Vilar (Trabajadora)
 257. Juan Carlos Álvarez Fernández (--)
 258. Catalina María Solís (Artista)
+259. Joxe Carreras Prieto (Profesor)
+260. José Manuel Soto Aranzadi (Jubilado)
+261. Rafael Bernal Gato	(Berdeak Equo)
+262. Jhon Hernández Ríos (Técnico ONG)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
