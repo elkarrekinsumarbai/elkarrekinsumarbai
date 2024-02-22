@@ -513,6 +513,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 260. José Manuel Soto Aranzadi (Erretiratua)
 261. Rafael Bernal Gato	(Berdeak Equo)
 262. Jhon Hernández Ríos (GKE Teknikaria)
+263. Leire Martínez Echebarria (Bitarteko funtzionarioa)
 	
 
 
