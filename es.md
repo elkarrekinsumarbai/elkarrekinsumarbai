@@ -518,6 +518,12 @@ Y para eso firmamos y difundimos esta reclamación.
 
 <a href="comentarios">Muestra de comentarios recibidos</a>
 
+<a href="elkarrekinsumarbai_03.png"><img src="elkarrekinsumarbai_03.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="400"></a>
+
+<a href="elkarrekinsumarbai_asamblada02_01.png"><img src="elkarrekinsumarbai_asamblada02_01.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="400"></a>
+
+<a href="grafico-porcentajes-parlamento-2024-separados-juntos.png"><img src="grafico-porcentajes-parlamento-2024-separados-juntos.png" alt="'Inteligentziaren pesimismoaren aurrean, borondatearen optimismoa'. Gramsci" width="400"></a>
+
 <meta property="og:title" content="elkarrekinsumarbai">
 <style>
 h1:nth-child(1) {
