@@ -145,9 +145,9 @@ La división  del progresismo refuerza el "regresismo"...más eCosistema y menos
 
 Esperemos que se consiga
 
-Mirar por el bien común es una obligación de todos 
+Mirar por el bien común es una obligación de todos
 
-
+¡Por favor!
 
 
 
