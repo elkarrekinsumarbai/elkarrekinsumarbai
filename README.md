@@ -514,6 +514,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 261. Rafael Bernal Gato	(Berdeak Equo)
 262. Jhon Hernández Ríos (GKE Teknikaria)
 263. Leire Martínez Echebarria (Bitarteko funtzionarioa)
+264. Tomás Pereda García (Jubilatua)
+265. Begoña Ugarte Ibarreche (--)
+266. Marimar Villalba Pérez (Irakaslea)
 	
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
 
