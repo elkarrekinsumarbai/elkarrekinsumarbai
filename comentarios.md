@@ -149,6 +149,8 @@ Mirar por el bien común es una obligación de todos
 
 ¡Por favor!
 
+Hemos de sumar, si no, no vamos a ningún lado
+
 
 
 
