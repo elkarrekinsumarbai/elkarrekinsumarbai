@@ -513,6 +513,9 @@ Y para eso firmamos y difundimos esta reclamación.
 261. Rafael Bernal Gato	(Berdeak Equo)
 262. Jhon Hernández Ríos (Técnico ONG)
 263. Leire Martínez Echebarria (Funcionario interino)
+264. Tomás Pereda García (Jubilado)
+265. Begoña Ugarte Ibarreche (--)
+266. Marimar Villalba Pérez (Profesora)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
