@@ -151,7 +151,7 @@ Mirar por el bien común es una obligación de todos
 
 Hemos de sumar, si no, no vamos a ningún lado
 
-
+Es fundamental el acuerdo, el espejo Galicia.
 
 
 
