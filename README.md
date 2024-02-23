@@ -518,6 +518,9 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 265. Begoña Ugarte Ibarreche (--)
 266. Marimar Villalba Pérez (Irakaslea)
 267. Verónica Gómez Belastegui (Alemaniako turismorako gida-interprete Euskadin)
+268. Fernando García Cabezas (Jubilatu aktiboa)
+269. Begoña Isasi Uribetxebarria (Irakasle)
+
 
 	
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Sinatu hemen zerrenda bateratuaren alde</a>
