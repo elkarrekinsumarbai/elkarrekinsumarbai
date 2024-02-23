@@ -516,6 +516,7 @@ Y para eso firmamos y difundimos esta reclamación.
 264. Tomás Pereda García (Jubilado)
 265. Begoña Ugarte Ibarreche (--)
 266. Marimar Villalba Pérez (Profesora)
+267. Verónica Gómez Belastegui (Guía Intérprete de turismo alemán en Euskadi)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
