@@ -153,7 +153,7 @@ Hemos de sumar, si no, no vamos a ningún lado
 
 Es fundamental el acuerdo, el espejo Galicia.
 
-
+Que se junten y negocien
 
 
 
