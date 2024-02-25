@@ -520,7 +520,8 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 267. Verónica Gómez Belastegui (Alemaniako turismorako gida-interprete Euskadin)
 268. Fernando García Cabezas (Jubilatu aktiboa)
 269. Begoña Isasi Uribetxebarria (Irakasle)
-270. Marisol Bozal Martínez (Irakaslea) 
+270. Marisol Bozal Martínez (Irakaslea)
+271. Patxi Pineda de la Iglesia (Industria Ingeniari)
 
 
 	
