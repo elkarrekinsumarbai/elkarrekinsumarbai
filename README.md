@@ -522,6 +522,7 @@ Eta horretarako sinatzen eta zabaltzen dugu aldarrikapen hau.
 269. Begoña Isasi Uribetxebarria (Irakasle)
 270. Marisol Bozal Martínez (Irakaslea)
 271. Patxi Pineda de la Iglesia (Industria Ingeniari)
+272. Jorge Toña Ducar (Zapatista)
 
 
 	
