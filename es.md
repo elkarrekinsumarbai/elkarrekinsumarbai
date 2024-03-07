@@ -520,7 +520,8 @@ Y para eso firmamos y difundimos esta reclamación.
 268. Fernando García Cabezas (Jubilado Activo)
 269. Begoña Isasi Uribetxebarria (Profesora)
 270. Marisol Bozal Martínez (Profesora)
-271. Patxi Pineda de la Iglesia (Ingeniero Industrial) 
+271. Patxi Pineda de la Iglesia (Ingeniero Industrial)
+272. Jorge Toña Ducar (Zapatista)
 
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
