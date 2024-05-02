@@ -1,5 +1,7 @@
 [Euskera](/) | **Castellano** | <a href="mailto:elkarrekinsumarbai@gmail.com">Contacto</a>
 
+<img src="elkarrekinsumarbai_asamblada02_02.png" alt="Asamblada 2024-05-11" width="450">
+
 <a href="https://forms.gle/q3ou5UES1ywUtMqH9" class="pressbutton" style="text-align:center;background-color:#fc0;padding:10px;border-radius:4px;color:black;text-decoration:none;cursor:pointer;">Firma aquí por la lista unitaria</a>
 
 # ¡Intentadlo otra vez!
